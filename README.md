@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'am Talha Faisal
 
-<!--
+
 **talha442/talha442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋, I'm Talha Faisal</h1>
+<p>Hi, I'm Talha Faisal, C# programmer from Pakistan. Currently I am working on different frameworks and learning Python. </p>
+- 🔭 I’m currently working on <a href="https://github.com/AashirKhan21/Eduvation-SMS-">Eduvation (School Mangement System)</a>
+- 🌱 I’m currently learning Python,React,React-Native and much more...
+- 💬 Ask me about C#,Dot-net,Javascricpt etc.
+- 📫 How to reach me <strong><a href="mailto:talha.faisal2000@gmail.com">talha.faisal2000@gmail.com</a></strong>
+- ⚡ Fun fact I love to do programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Contact me</h3>
+<p>
+<a href="https://web.facebook.com/profile.php?id=100009426633452">Facebook</a>
+<a href="https://www.instagram.com/talha.faisal2000/?hl=en">Instagram</a>
+<a href="https://www.instagram.com/talha.faisal2000/?hl=en">Linkedin</a>
+</p>
+
