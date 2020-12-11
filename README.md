@@ -21,4 +21,5 @@
 <a href="https://www.instagram.com/talha.faisal2000/?hl=en">Instagram</a>
 <a href="https://www.instagram.com/talha.faisal2000/?hl=en">Linkedin</a>
 </p>
+<img align="left" src="https://camo.githubusercontent.com/154df7662ab23ed569652e4e907202b801fe82595fea99219dfd82df8c9094b5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6161736869726b68616e32312673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="aashirkhan21" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=talha442&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width:100%;">
 
