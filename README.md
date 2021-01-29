@@ -26,6 +26,7 @@
 <a href="https://dev.to/talha442" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="talha442" height="30" width="40" /></a>
 <a href="https://fb.com/talha faisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="talha faisal" height="30" width="40" /></a>
 <a href="https://instagram.com/talha.faisal2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="talha.faisal2000" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/talha faisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="talha faisal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
