@@ -15,9 +15,8 @@
 - ⚡ Fun fact I love to do programming
 </p>
 
-<h3 align="left">Contact me</h3>
+<h3 align="left">Connect with me:</h3>
 <p>
-<a href="https://web.facebook.com/profile.php?id=100009426633452">Facebook</a>
+<a href="https://web.facebook.com/profile.php?id=100009426633452"><img src="" alt="">Facebook</a>
 <a href="https://www.instagram.com/talha.faisal2000/?hl=en">Instagram</a>
-<a href="https://www.instagram.com/talha.faisal2000/?hl=en">Linkedin</a>
 </p>
