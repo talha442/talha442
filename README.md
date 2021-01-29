@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Talha Faisal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talha442&label=Profile%20views&color=0e75b6&style=flat" alt="talha442" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha442&label=Profile%20views&color=0e75b6&style=flat" alt="talha442" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha442" alt="talha442" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha442" alt="talha442" /></a> </p> -->
 
 - 🔭 I’m currently working on [Eduvation (School Mangement System)](https://github.com/AashirKhan21/Eduvation-SMS-)
 
