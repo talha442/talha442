@@ -2,19 +2,19 @@
 <!-- **talha442/talha442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Talha Faisal</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate Frontend Developer From Pakistan</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha442&label=Profile%20views&color=0e75b6&style=flat" alt="talha442" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha442" alt="talha442" /></a> </p> -->
 
-- 🔭 I’m currently working on [Eduvation (School Mangement System)](https://github.com/AashirKhan21/Eduvation-SMS-)
+- 🔭 I’m currently working on react applications
 
 - 🌱 I’m currently learning **Python, React, React-Native and much more...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/talha442](https://github.com/talha442)
 
-- 💬 Ask me about **Html, Css, C#, Dot-net, Javascricpt etc.**
+- 💬 Ask me about **Html, Css, C#, Dot-net, Javascricpt, React etc.**
 
 - 📫 How to reach me **talha.faisal2000@gmail.com**
 
