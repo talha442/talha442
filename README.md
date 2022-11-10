@@ -1,39 +1,27 @@
-<!-- ### Hi there 👋, I'am Talha Faisal -->
-<!-- **talha442/talha442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+### Hi there 👋, My name is Talha Faisal
+#### MERN Stack Developer
 
-<h1 align="center">Hi 👋, I'm Talha Faisal</h1>
-<h3 align="center">A Passionate Frontend Developer From Pakistan</h3>
+- 🔭 I’m currently working on The Digital Phenomena 
+- 🌱 I’m currently learning Flutter 
+- 💬 Ask me about HTML, CSS, JavaScript, React 
+- 📫 How to reach me: talha.faisal2000@gmail.com 
+- ⚡ Fun fact: I Love to Code 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha442&label=Profile%20views&color=0e75b6&style=flat" alt="talha442" /> </p> -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha442" alt="talha442" /></a> </p> -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/talha442)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/talha-faisal-6490741ab//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009426633452)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/talha.faisal2000//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/TalhaFaisal2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://talhafaisal.netlify.app/)  
 
-- 🔭 I’m currently working on react applications
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 🌱 I’m currently learning **Python, React, React-Native and much more...**
+[![trophy](https://github-profile-trophy.vercel.app/?username=talha442)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👨‍💻 All of my projects are available at [https://github.com/talha442](https://github.com/talha442)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talha442)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 Ask me about **Html, Css, C#, Dot-net, Javascricpt, React etc.**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=talha442&show_icons=true&count_private=true)  
 
-- 📫 How to reach me **talha.faisal2000@gmail.com**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talha442)  
 
-- ⚡ Fun fact **I love to do programming**
+![GitHub metrics](https://metrics.lecoq.io/talha442)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/talhafai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="talhafai" height="30" width="40" /></a>
-<a href="https://dev.to/talha442" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="talha442" height="30" width="40" /></a>
-<a href="https://fb.com/talha faisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="talha faisal" height="30" width="40" /></a>
-<a href="https://instagram.com/talha.faisal2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="talha.faisal2000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/talha faisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="talha faisal" height="30" width="40" /></a>
-</p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=talha442)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha442&show_icons=true&locale=en&layout=compact" alt="talha442" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talha442&show_icons=true&locale=en" alt="talha442" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talha442&" alt="talha442" /></p>
+![Profile views](https://gpvc.arturio.dev/talha442)  
