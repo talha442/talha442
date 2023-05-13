@@ -1,23 +1,25 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
-</div>
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<div size='20px'> Hi! My name is Talha Faisal. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
-
-- 🔭 I’m currently working on Github projects, blogs etc
-
-- 🌱 I’m currently learning Web Technologies, Google Cloud, etc... 
-
-- 👯 I’m looking to collaborate on projects, tech articles... 
-
-- 💬 Talk to me about Python, JavaScript, Angular, React, Open Source... 
+```javascript
+const Talha = {
+    pronouns: "Bro" | "Bruh",
+    code: ["Javascript", "HTML", "Python", "Java", "C++"],
+    askMeAbout: ["Web Dev", "Tech", "Machine learning", "Software Development", "TV Shows", "Content Writing", "Memes"],
+    technologies: {
+        frontEnd: {
+            js: ["Vanilla", "jQuery"],
+            css: ["CSS3", "Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            python: ["flask"]
+            javascript : ["nodejs, expressjs"]
+        },
+        devOps: ["GCP"], ["Azure"]
+        databases: ["Mongo", "MySql", "phpMyAdmin", "Oracle"],
+        ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas", "Octave"]
+    },
+    currentProject: "Working on enhancing my current skillset whilst simultaneously looking for new opportunities.",
+    funFact: "My jokes are a cry for help."
+};
+```
 
 
 
