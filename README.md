@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Talha Faisal
-#### MERN Stack Developer
+### MEAN Stack Developer
 
 - 🔭 I’m currently working on The Digital Phenomena 
 - 🌱 I’m currently learning Google Cloud 
