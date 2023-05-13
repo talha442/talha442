@@ -2,7 +2,7 @@
 #### MERN Stack Developer
 
 - 🔭 I’m currently working on The Digital Phenomena 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Google Cloud 
 - 💬 Ask me about HTML, CSS, Tailwind, JavaScript, React, Angular 
 - 📫 How to reach me: talha.faisal2000@gmail.com 
 - ⚡ Fun fact: I Love to Code 
