@@ -1,11 +1,11 @@
 ```javascript
 const Talha = {
     pronouns: "Bro" | "Bruh",
-    code: ["Javascript", "HTML", "Python", "Java", "C++"],
+    code: ["Javascript", "HTML", "Python", "C#"],
     askMeAbout: ["Web Dev", "Tech", "Machine learning", "Software Development", "TV Shows", "Content Writing", "Memes"],
     technologies: {
         frontEnd: {
-            js: ["Vanilla", "jQuery"],
+            js: ["Vanilla", "jQuery", "Angular", "React"],
             css: ["CSS3", "Tailwind", "Bootstrap"]
         },
         backEnd: {
