@@ -10,7 +10,7 @@ const Talha = {
         },
         backEnd: {
             python: ["flask"]
-            js : ["nodejs, expressjs"]
+            js: ["nodejs, expressjs"]
         },
         devOps: ["GCP"], ["Azure"]
         databases: ["Mongo", "MySql", "phpMyAdmin", "Oracle"],
