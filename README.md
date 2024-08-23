@@ -1,20 +1,22 @@
 ```javascript
 const Talha = {
     pronouns: "Bro" | "Bruh",
-    code: ["Javascript", "React", "Next" "Python", "C#"],
-    askMeAbout: ["Web Dev", "Tech", "Machine learning", "Software Development", "TV Shows", "Content Writing", "Memes"],
+    code: ["Javascript", "React", "Next.js", "Python", "C#"],
+    askMeAbout: ["Web Dev", "Tech", "Machine Learning", "Software Development", "TV Shows", "Content Writing", "Memes"],
     technologies: {
         frontEnd: {
-            js: ["Vanilla", "Next", "Angular", "React"],
+            js: ["Vanilla", "Next.js", "Angular", "React"],
             css: ["Shadcn UI", "Tailwind", "Aceternity UI", "Bootstrap"]
         },
         backEnd: {
-            python: ["flask"]
-            js: ["nodejs, expressjs"]
+            python: ["Flask"],
+            js: ["Node.js", "Express.js"]
         },
-        devOps: ["GCP"], ["Azure"]
-        databases: ["Mongo", "MySql", "phpMyAdmin", "Supabase"],
-        ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas", "Octave"]
+        devOps: {
+            platforms: ["GCP", "Azure"]
+        },
+        databases: ["MongoDB", "MySQL", "phpMyAdmin", "Supabase"],
+        ML: ["TensorFlow", "Keras", "Scikit-learn", "OpenCV", "Matplotlib", "Pandas", "Octave"]
     },
     currentProject: "Working on enhancing my current skillset while simultaneously looking for new opportunities.",
     funFact: "My jokes are a cry for help."
