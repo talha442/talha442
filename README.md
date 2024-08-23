@@ -5,18 +5,18 @@ const Talha = {
     askMeAbout: ["Web Dev", "Tech", "Machine learning", "Software Development", "TV Shows", "Content Writing", "Memes"],
     technologies: {
         frontEnd: {
-            js: ["Vanilla", "jQuery", "Angular", "React"],
-            css: ["CSS3", "Tailwind", "Bootstrap"]
+            js: ["Vanilla", "Next", "Angular", "React"],
+            css: ["Shadcn UI", "Tailwind", "Aceternity UI", "Bootstrap"]
         },
         backEnd: {
             python: ["flask"]
             js: ["nodejs, expressjs"]
         },
         devOps: ["GCP"], ["Azure"]
-        databases: ["Mongo", "MySql", "phpMyAdmin", "Oracle"],
+        databases: ["Mongo", "MySql", "phpMyAdmin", "Supabase"],
         ML: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas", "Octave"]
     },
-    currentProject: "Working on enhancing my current skillset whilst simultaneously looking for new opportunities.",
+    currentProject: "Working on enhancing my current skillset while simultaneously looking for new opportunities.",
     funFact: "My jokes are a cry for help."
 };
 ```
