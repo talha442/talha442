@@ -41,4 +41,4 @@ const Talha = {
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`ast Updated: 11/18/2024, 1:18:17 AM`
+`Last Updated: {val-lv}`
