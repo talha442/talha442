@@ -33,7 +33,12 @@ const Talha = {
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=talha442&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️Qoute of the day:
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+### {random-quote-0001}
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
+
+![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
+
+`Last Updated: {val-lv}`
