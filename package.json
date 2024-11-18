@@ -1,0 +1,28 @@
+{
+  "name": "talha442-portfolio",
+  "version": "1.0.0",
+  "description": "Talha's Secret Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talha442/talha442.git"
+  },
+  "keywords": [
+    "talha442.portfolio",
+    "talhafaisal888"
+  ],
+  "author": "Talha Faisal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talha442/talha442/issues"
+  },
+  "homepage": "https://github.com/talha442/talha442#readme",
+  "dependencies": {
+    "dotenv": "^8.6.0",
+    "express": "^4.18.2",
+    "isomorphic-unfetch": "^3.1.0"
+  }
+}

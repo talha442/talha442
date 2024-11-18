@@ -1,0 +1,39 @@
+name: Update the Readme every day
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository
+      - uses: actions/checkout@v2
+
+      # Step 2: Set up Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18 # Use the latest LTS version
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # Step 4: Run the script to update README
+      - name: Run update script
+        run: node index.js
+
+      # Step 5: Commit and push changes
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "talha442"
+          git config --global user.email "talhafaisal888@gmail.com"
+          git add README.md
+          git commit -m "[Automated] Update README"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
