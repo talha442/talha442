@@ -30,8 +30,8 @@ jobs:
       # Step 5: Commit and push changes
       - name: Commit and push changes
         run: |
-          git config --global user.name ${{ secrets.TALHAGIT_EGN }}
-          git config --global user.email ${{ secrets.TALHAGIT_EGE }}
+          git config --global user.name "talha442"
+          git config --global user.email "talhafaisal888@gmail.com"
           git add README.md
           git commit -m "[Magic] Automated Update README"
           git push
