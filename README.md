@@ -35,9 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-## <blockquote>&ldquo;If you run you stand a chance of losing, but if you don't run you've already lost.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+### <blockquote>&ldquo;It's not what we do once in a while that shapes our lives, but what we do consistently.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-
-`Last Updated: 11/18/2024, 6:13:30 PM`
+`Last Updated: 11/19/2024, 1:16:35 AM`
