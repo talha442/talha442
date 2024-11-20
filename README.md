@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It's not what we do once in a while that shapes our lives, but what we do consistently.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+### <blockquote>&ldquo;You can't let your failures define you. You have to let your failures teach you.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/19/2024, 1:16:35 AM`
+`Last Updated: 11/20/2024, 1:15:51 AM`
