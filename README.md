@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+### <blockquote>&ldquo;Begin at once to live, and count each separate day as a separate life.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/22/2024, 1:16:42 AM`
+`Last Updated: 11/23/2024, 1:14:30 AM`
