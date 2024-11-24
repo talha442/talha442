@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Begin at once to live, and count each separate day as a separate life.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+### <blockquote>&ldquo;You have as much laughter as you have faith.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/23/2024, 1:14:30 AM`
+`Last Updated: 11/24/2024, 1:21:40 AM`
