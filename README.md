@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The world would go on even without you. Don't take yourself so seriously.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+### <blockquote>&ldquo;The road to success is always under construction.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/25/2024, 1:17:45 AM`
+`Last Updated: 11/26/2024, 1:16:54 AM`
