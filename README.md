@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.&rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
+### <blockquote>&ldquo;Happiness is the absence of the striving for happiness.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/27/2024, 1:18:24 AM`
+`Last Updated: 11/28/2024, 1:17:45 AM`
