@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Happiness is the absence of the striving for happiness.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+### <blockquote>&ldquo;It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/28/2024, 1:17:45 AM`
+`Last Updated: 11/29/2024, 1:17:43 AM`
