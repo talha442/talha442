@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+### <blockquote>&ldquo;Nature loves to hide.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/29/2024, 1:17:43 AM`
+`Last Updated: 11/30/2024, 1:15:53 AM`
