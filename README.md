@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Life has more imagination than we carry in our dreams.&rdquo; &mdash; <footer>Christopher Columbus</footer></blockquote>
+### <blockquote>&ldquo;No man is happy unless he believes he is.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/1/2024, 1:37:16 AM`
+`Last Updated: 12/2/2024, 1:20:28 AM`
