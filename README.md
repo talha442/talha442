@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;No man is happy unless he believes he is.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
+### <blockquote>&ldquo;Instead of being intimidated by the limitations, be inspired to find new ways around them.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/2/2024, 1:20:28 AM`
+`Last Updated: 12/3/2024, 1:19:18 AM`
