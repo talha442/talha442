@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Instead of being intimidated by the limitations, be inspired to find new ways around them.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+### <blockquote>&ldquo;Learn from the mistakes of others. You can't live long enough to make them all yourself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/3/2024, 1:19:18 AM`
+`Last Updated: 12/4/2024, 1:19:35 AM`
