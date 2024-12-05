@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Learn from the mistakes of others. You can't live long enough to make them all yourself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+### <blockquote>&ldquo;Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/4/2024, 1:19:35 AM`
+`Last Updated: 12/5/2024, 1:19:33 AM`
