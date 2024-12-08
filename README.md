@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You can avoid reality, but you cannot avoid the consequences of avoiding reality.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+### <blockquote>&ldquo;The best way to not feel hopeless is to get up and do something.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/7/2024, 1:18:01 AM`
+`Last Updated: 12/8/2024, 1:24:43 AM`
