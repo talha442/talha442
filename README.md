@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The best way to not feel hopeless is to get up and do something.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+### <blockquote>&ldquo;People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/8/2024, 1:24:43 AM`
+`Last Updated: 12/9/2024, 1:21:18 AM`
