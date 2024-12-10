@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+### <blockquote>&ldquo;Go for it now. The future is promised to no one.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/9/2024, 1:21:18 AM`
+`Last Updated: 12/10/2024, 1:20:22 AM`
