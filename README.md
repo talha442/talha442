@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Go for it now. The future is promised to no one.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+### <blockquote>&ldquo;An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/10/2024, 1:20:22 AM`
+`Last Updated: 12/11/2024, 1:19:25 AM`
