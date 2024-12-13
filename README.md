@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The only person you should try to be better than is the person you were yesterday.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+### <blockquote>&ldquo;To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/12/2024, 1:18:55 AM`
+`Last Updated: 12/13/2024, 1:20:29 AM`
