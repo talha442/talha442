@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+### <blockquote>&ldquo;The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/14/2024, 1:16:46 AM`
+`Last Updated: 12/15/2024, 1:24:38 AM`
