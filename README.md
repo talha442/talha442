@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The one who boasts does so only out of a feeling of inferiority.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+### <blockquote>&ldquo;Most of us will do anything to avoid facing ourselves.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/16/2024, 1:21:49 AM`
+`Last Updated: 12/17/2024, 1:19:12 AM`
