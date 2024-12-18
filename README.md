@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Most of us will do anything to avoid facing ourselves.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+### <blockquote>&ldquo;A strong man overcomes an obstacle, a wise man goes the whole way.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/17/2024, 1:19:12 AM`
+`Last Updated: 12/18/2024, 1:16:21 AM`
