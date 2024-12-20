@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;When the time is gone, you can never get it back.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+### <blockquote>&ldquo;Stay away from people who makes you feel like you are wasting their time.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/19/2024, 1:16:58 AM`
+`Last Updated: 12/20/2024, 1:13:14 AM`
