@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Stay away from people who makes you feel like you are wasting their time.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+### <blockquote>&ldquo;Throughout this life, you can never be certain of living long enough to take another breath.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/20/2024, 1:13:14 AM`
+`Last Updated: 12/21/2024, 1:11:52 AM`
