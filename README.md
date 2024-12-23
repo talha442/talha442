@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If we will be quiet and ready enough, we shall find compensation in every disappointment.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+### <blockquote>&ldquo;Where we fall are the stepping-stones for our journey.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/22/2024, 1:18:25 AM`
+`Last Updated: 12/23/2024, 1:14:25 AM`
