@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Live simply, expect little, give much.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+### <blockquote>&ldquo;The smallest act of kindness is worth more than the greatest intention.  &rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/24/2024, 1:12:47 AM`
+`Last Updated: 12/25/2024, 1:12:02 AM`
