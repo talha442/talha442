@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The smallest act of kindness is worth more than the greatest intention.  &rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+### <blockquote>&ldquo;You change the world by being yourself.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/25/2024, 1:12:02 AM`
+`Last Updated: 12/26/2024, 1:12:14 AM`
