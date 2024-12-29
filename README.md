@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;When at last you are come to the ocean of happiness, do not go back thirsty.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
+### <blockquote>&ldquo;Everyone wants to go to Heaven, but no one wants to die.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/28/2024, 1:11:13 AM`
+`Last Updated: 12/29/2024, 1:19:16 AM`
