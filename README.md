@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Everyone wants to go to Heaven, but no one wants to die.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+### <blockquote>&ldquo;Conflict cannot survive without your participation. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/29/2024, 1:19:16 AM`
+`Last Updated: 12/30/2024, 1:14:58 AM`
