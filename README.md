@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Conflict cannot survive without your participation. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+### <blockquote>&ldquo;The reward of suffering is experience.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/30/2024, 1:14:58 AM`
+`Last Updated: 12/31/2024, 1:12:28 AM`
