@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;All our dreams can come true, if we have the courage to pursue them.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
+### <blockquote>&ldquo;In matters of style, swim with the current; in matters of principle, stand like a rock.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/2/2025, 1:12:13 AM`
+`Last Updated: 1/3/2025, 1:13:04 AM`
