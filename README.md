@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+### <blockquote>&ldquo;Whatever you believe with feeling becomes your reality. &rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/4/2025, 1:11:28 AM`
+`Last Updated: 1/5/2025, 1:18:35 AM`
