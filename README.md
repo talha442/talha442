@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A little impatience will spoil great plans.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+### <blockquote>&ldquo;The eyes of others our prisons; their thoughts our cages.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/7/2025, 1:13:19 AM`
+`Last Updated: 1/8/2025, 1:13:14 AM`
