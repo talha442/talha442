@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The eyes of others our prisons; their thoughts our cages.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+### <blockquote>&ldquo;My powers are ordinary. Only my application brings me success.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/8/2025, 1:13:14 AM`
+`Last Updated: 1/9/2025, 1:12:47 AM`
