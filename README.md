@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;My powers are ordinary. Only my application brings me success.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+### <blockquote>&ldquo;Know the rules well, so you can break them effectively.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/9/2025, 1:12:47 AM`
+`Last Updated: 1/10/2025, 1:14:58 AM`
