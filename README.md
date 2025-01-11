@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Know the rules well, so you can break them effectively.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+### <blockquote>&ldquo;There is little success where there is little laughter.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/10/2025, 1:14:58 AM`
+`Last Updated: 1/11/2025, 1:13:27 AM`
