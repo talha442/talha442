@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;There is little success where there is little laughter.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+### <blockquote>&ldquo;It's not the love you make. It's the love you give. &rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/11/2025, 1:13:27 AM`
+`Last Updated: 1/12/2025, 1:19:55 AM`
