@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It's not the love you make. It's the love you give. &rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
+### <blockquote>&ldquo;Far and away the best prize that life has to offer is the chance to work hard at work worth doing.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/12/2025, 1:19:55 AM`
+`Last Updated: 1/13/2025, 1:16:45 AM`
