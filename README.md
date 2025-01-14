@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Far and away the best prize that life has to offer is the chance to work hard at work worth doing.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+### <blockquote>&ldquo;Wealth consists not in having great possessions, but in having few wants.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/13/2025, 1:16:45 AM`
+`Last Updated: 1/14/2025, 1:09:56 AM`
