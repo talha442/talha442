@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Wealth consists not in having great possessions, but in having few wants.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+### <blockquote>&ldquo;It is literally true that you can succeed best and quickest by helping others succeed.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/14/2025, 1:09:56 AM`
+`Last Updated: 1/15/2025, 1:11:24 AM`
