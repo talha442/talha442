@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It is literally true that you can succeed best and quickest by helping others succeed.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+### <blockquote>&ldquo;The scariest moment is always just before you start. After that, things can only get better.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/15/2025, 1:11:24 AM`
+`Last Updated: 1/16/2025, 1:10:56 AM`
