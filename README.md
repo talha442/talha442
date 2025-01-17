@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The scariest moment is always just before you start. After that, things can only get better.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+### <blockquote>&ldquo;All things come into being by conflict of opposites.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/16/2025, 1:10:56 AM`
+`Last Updated: 1/17/2025, 1:10:37 AM`
