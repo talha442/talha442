@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+### <blockquote>&ldquo;The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/18/2025, 1:08:55 AM`
+`Last Updated: 1/19/2025, 1:16:15 AM`
