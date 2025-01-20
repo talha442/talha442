@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
+### <blockquote>&ldquo;I no doubt deserved my enemies, but I don't believe I deserved my friends.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/19/2025, 1:16:15 AM`
+`Last Updated: 1/20/2025, 1:12:08 AM`
