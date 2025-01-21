@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;I no doubt deserved my enemies, but I don't believe I deserved my friends.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
+### <blockquote>&ldquo;A dream you dream alone is only a dream. A dream you dream together is reality.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/20/2025, 1:12:08 AM`
+`Last Updated: 1/21/2025, 1:10:53 AM`
