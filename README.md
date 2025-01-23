@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you do not tell the truth about yourself you cannot tell it about other people.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+### <blockquote>&ldquo;Everything has its beauty, but not everyone sees it. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/22/2025, 1:12:35 AM`
+`Last Updated: 1/23/2025, 1:11:14 AM`
