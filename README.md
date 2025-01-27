@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+### <blockquote>&ldquo;A man who dares to waste one hour of time has not discovered the value of life.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/26/2025, 1:13:16 AM`
+`Last Updated: 1/27/2025, 1:12:21 AM`
