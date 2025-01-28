@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A man who dares to waste one hour of time has not discovered the value of life.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
+### <blockquote>&ldquo;If you want to keep your memories, you first have to live them.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/27/2025, 1:12:21 AM`
+`Last Updated: 1/28/2025, 1:10:57 AM`
