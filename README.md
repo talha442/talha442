@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Mistakes are always forgivable, if one has the courage to admit them. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+### <blockquote>&ldquo;Simplicity is a difficult thing to achieve.  &rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/29/2025, 1:10:58 AM`
+`Last Updated: 1/30/2025, 1:10:10 AM`
