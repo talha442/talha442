@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Simplicity is a difficult thing to achieve.  &rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
+### <blockquote>&ldquo;Showing off is the fool's idea of glory. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/30/2025, 1:10:10 AM`
+`Last Updated: 1/31/2025, 1:11:26 AM`
