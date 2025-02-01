@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Showing off is the fool's idea of glory. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+### <blockquote>&ldquo;Your only obligation in any lifetime is to be true to yourself.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/31/2025, 1:11:26 AM`
+`Last Updated: 2/1/2025, 1:15:20 AM`
