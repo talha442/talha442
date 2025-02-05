@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Those who realize their folly are not true fools.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+### <blockquote>&ldquo;True life is lived when tiny changes occur.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/4/2025, 1:11:22 AM`
+`Last Updated: 2/5/2025, 1:12:26 AM`
