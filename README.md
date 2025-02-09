@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The way we feel is the direct result of what we think.&rdquo; &mdash; <footer>Peter A. Cohen</footer></blockquote>
+### <blockquote>&ldquo;There is no way to happiness - happiness is the way.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/8/2025, 1:10:13 AM`
+`Last Updated: 2/9/2025, 1:15:55 AM`
