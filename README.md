@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;There is no way to happiness - happiness is the way.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+### <blockquote>&ldquo;There are two kinds of perfect people: those who are dead, and those who have not been born yet.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/9/2025, 1:15:55 AM`
+`Last Updated: 2/10/2025, 1:13:27 AM`
