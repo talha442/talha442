@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Always be a first rate version of yourself and not a second rate version of someone else.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
+### <blockquote>&ldquo;The most wasted day of all is that on which we have not laughed.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/11/2025, 1:12:04 AM`
+`Last Updated: 2/12/2025, 1:12:25 AM`
