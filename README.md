@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The most wasted day of all is that on which we have not laughed.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+### <blockquote>&ldquo;While we may not be able to control all that happens to us, we can control what happens inside us.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/12/2025, 1:12:25 AM`
+`Last Updated: 2/13/2025, 1:12:45 AM`
