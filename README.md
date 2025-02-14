@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;While we may not be able to control all that happens to us, we can control what happens inside us.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+### <blockquote>&ldquo;Failure is simply the opportunity to begin again, this time more intelligently.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/13/2025, 1:12:45 AM`
+`Last Updated: 2/14/2025, 1:12:39 AM`
