@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Working hard for something we don't care about is called stress: Working hard for something we love is called passion.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+### <blockquote>&ldquo;Perplexity is the beginning of knowledge.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/15/2025, 1:11:33 AM`
+`Last Updated: 2/16/2025, 1:18:19 AM`
