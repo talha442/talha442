@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Perplexity is the beginning of knowledge.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+### <blockquote>&ldquo;Today will never happen again. Don't waste it with a false start or no start at all.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/16/2025, 1:18:19 AM`
+`Last Updated: 2/17/2025, 1:15:10 AM`
