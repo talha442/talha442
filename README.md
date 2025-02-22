@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The greatest miracle is to be alive.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+### <blockquote>&ldquo;We ordinary people must forge our own beauty.&rdquo; &mdash; <footer>Kenji Miyazawa</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/21/2025, 1:13:29 AM`
+`Last Updated: 2/22/2025, 1:11:20 AM`
