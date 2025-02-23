@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We ordinary people must forge our own beauty.&rdquo; &mdash; <footer>Kenji Miyazawa</footer></blockquote>
+### <blockquote>&ldquo;Chop your own wood and it will warm you twice. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/22/2025, 1:11:20 AM`
+`Last Updated: 2/23/2025, 1:18:09 AM`
