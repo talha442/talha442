@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Chop your own wood and it will warm you twice. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+### <blockquote>&ldquo;Give me six hours to chop down a tree and I will spend the first four sharpening the axe.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/23/2025, 1:18:09 AM`
+`Last Updated: 2/24/2025, 1:15:16 AM`
