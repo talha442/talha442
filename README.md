@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Give me six hours to chop down a tree and I will spend the first four sharpening the axe.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
+### <blockquote>&ldquo;We're kept from our goal not by obstacles, but by a clear path to a lesser goal.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/24/2025, 1:15:16 AM`
+`Last Updated: 2/25/2025, 1:14:36 AM`
