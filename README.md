@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;No great discovery was ever made without a bold guess. &rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+### <blockquote>&ldquo;Expect the best, plan for the worst, and prepare to be surprised. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/28/2025, 1:15:04 AM`
+`Last Updated: 3/1/2025, 1:19:37 AM`
