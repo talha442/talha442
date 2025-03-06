@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Great deeds are usually wrought at great risks.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
+### <blockquote>&ldquo;Fools read fast. Geniuses reread.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/5/2025, 1:16:07 AM`
+`Last Updated: 3/6/2025, 1:15:48 AM`
