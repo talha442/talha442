@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Doing the best at this moment puts you in the best place for the next moment.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+### <blockquote>&ldquo;A rational person can find peace by cultivating indifference to things outside of their control.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/9/2025, 1:06:06 AM`
+`Last Updated: 3/10/2025, 1:04:31 AM`
