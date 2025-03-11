@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A rational person can find peace by cultivating indifference to things outside of their control.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+### <blockquote>&ldquo;People should pursue what they're passionate about. That will make them happier than pretty much anything else.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/10/2025, 1:04:31 AM`
+`Last Updated: 3/11/2025, 1:16:22 AM`
