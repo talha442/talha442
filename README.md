@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It is passion that makes man live; wisdom makes one only last.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+### <blockquote>&ldquo;Do what you can, with what you have, where you are.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/13/2025, 1:17:04 AM`
+`Last Updated: 3/14/2025, 1:15:42 AM`
