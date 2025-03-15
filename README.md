@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Do what you can, with what you have, where you are.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+### <blockquote>&ldquo;Man invented language to satisfy his deep need to complain.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/14/2025, 1:15:42 AM`
+`Last Updated: 3/15/2025, 1:15:07 AM`
