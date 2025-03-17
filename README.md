@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Nothing is more creative...nor destructive...than a brilliant mind with a purpose.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>
+### <blockquote>&ldquo;The secret of getting ahead is getting started.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/16/2025, 1:21:39 AM`
+`Last Updated: 3/17/2025, 1:19:07 AM`
