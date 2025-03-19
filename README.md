@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Wherever you are, and whatever you do, be in love.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+### <blockquote>&ldquo;It's easier to go down a hill than up it but the view is much better at the top.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/18/2025, 1:16:40 AM`
+`Last Updated: 3/19/2025, 1:17:33 AM`
