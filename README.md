@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The dreamers are the saviors of the worlds.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+### <blockquote>&ldquo;There are two things a person should never be angry at, what they can help, and what they cannot.&rdquo; &mdash; <footer>Plato</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/22/2025, 1:16:06 AM`
+`Last Updated: 3/23/2025, 1:22:22 AM`
