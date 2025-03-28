@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Your problem isn't the problem. Your reaction is the problem.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;We must embrace pain and burn it as fuel for our journey.&rdquo; &mdash; <footer>Kenji Miyazawa</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/27/2025, 1:17:30 AM`
+`Last Updated: 3/28/2025, 1:17:34 AM`
