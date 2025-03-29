@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We must embrace pain and burn it as fuel for our journey.&rdquo; &mdash; <footer>Kenji Miyazawa</footer></blockquote>
+### <blockquote>&ldquo;Perfection is not attainable, but if we chase perfection we can catch excellence.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/28/2025, 1:17:34 AM`
+`Last Updated: 3/29/2025, 1:16:58 AM`
