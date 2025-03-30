@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Perfection is not attainable, but if we chase perfection we can catch excellence.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+### <blockquote>&ldquo;The only limits in your life are those that you set yourself.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/29/2025, 1:16:58 AM`
+`Last Updated: 3/30/2025, 1:24:03 AM`
