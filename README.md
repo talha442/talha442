@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.&rdquo; &mdash; <footer>James Cameron</footer></blockquote>
+### <blockquote>&ldquo;Keep away from people who try to belittle your ambitions.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/31/2025, 1:21:58 AM`
+`Last Updated: 4/1/2025, 1:27:04 AM`
