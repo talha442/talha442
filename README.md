@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Success is stumbling from failure to failure with no loss of enthusiasm.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+### <blockquote>&ldquo;The traveler sees what he sees. The tourist sees what he has come to see.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/2/2025, 1:19:30 AM`
+`Last Updated: 4/3/2025, 1:18:23 AM`
