@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The traveler sees what he sees. The tourist sees what he has come to see.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+### <blockquote>&ldquo;Being wrong opens us up to the possibility of change.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/3/2025, 1:18:23 AM`
+`Last Updated: 4/4/2025, 1:18:06 AM`
