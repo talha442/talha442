@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Don't look back - you're not going that way.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
+### <blockquote>&ldquo;Whatever you think the world is withholding from you, you are withholding from the world.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/9/2025, 1:18:59 AM`
+`Last Updated: 4/10/2025, 1:18:39 AM`
