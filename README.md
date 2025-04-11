@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Whatever you think the world is withholding from you, you are withholding from the world.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+### <blockquote>&ldquo;A crisis is an opportunity riding the dangerous wind.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/10/2025, 1:18:39 AM`
+`Last Updated: 4/11/2025, 1:19:16 AM`
