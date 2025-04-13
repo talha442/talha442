@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Don't be pushed by your problems; be led by your dreams.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;Respect was invented to cover the empty place where love should be.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/12/2025, 1:17:34 AM`
+`Last Updated: 4/13/2025, 2:46:50 AM`
