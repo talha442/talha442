@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Respect was invented to cover the empty place where love should be.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+### <blockquote>&ldquo;Do it with passion, or not at all.&rdquo; &mdash; <footer>Rosa Nouchette Carey</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/13/2025, 2:46:50 AM`
+`Last Updated: 4/14/2025, 1:22:08 AM`
