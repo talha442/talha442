@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Do it with passion, or not at all.&rdquo; &mdash; <footer>Rosa Nouchette Carey</footer></blockquote>
+### <blockquote>&ldquo;Get mad, then get over it.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/14/2025, 1:22:08 AM`
+`Last Updated: 4/15/2025, 1:21:22 AM`
