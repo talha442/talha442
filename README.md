@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Absorb what is useful, discard what is useless and add what is specifically your own.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+### <blockquote>&ldquo;You are today where your thoughts have brought you.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/16/2025, 1:20:45 AM`
+`Last Updated: 4/17/2025, 1:19:50 AM`
