@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You are today where your thoughts have brought you.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+### <blockquote>&ldquo;Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/17/2025, 1:19:50 AM`
+`Last Updated: 4/18/2025, 1:19:02 AM`
