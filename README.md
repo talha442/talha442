@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
+### <blockquote>&ldquo;As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/18/2025, 1:19:02 AM`
+`Last Updated: 4/19/2025, 1:16:49 AM`
