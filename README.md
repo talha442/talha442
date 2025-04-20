@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+### <blockquote>&ldquo;We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/19/2025, 1:16:49 AM`
+`Last Updated: 4/20/2025, 1:25:20 AM`
