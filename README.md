@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+### <blockquote>&ldquo;We meet ourselves time and again in a thousand disguises on the path of life.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/20/2025, 1:25:20 AM`
+`Last Updated: 4/21/2025, 1:23:49 AM`
