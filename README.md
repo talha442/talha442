@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Only when one allows themself the right to die, do they then give yourself the permission to live.&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
+### <blockquote>&ldquo;It doesn't matter how slow you go, as long as you don't stop.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/22/2025, 1:20:23 AM`
+`Last Updated: 4/23/2025, 1:20:34 AM`
