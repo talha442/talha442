@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It doesn't matter how slow you go, as long as you don't stop.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
+### <blockquote>&ldquo;Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/23/2025, 1:20:34 AM`
+`Last Updated: 4/24/2025, 1:20:45 AM`
