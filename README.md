@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+### <blockquote>&ldquo;The meaning of life is that it stops.&rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/24/2025, 1:20:45 AM`
+`Last Updated: 4/25/2025, 1:21:25 AM`
