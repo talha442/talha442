@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;I no doubt deserved my enemies, but I don't believe I deserved my friends.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
+### <blockquote>&ldquo;Write to help yourself, publish to help others.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/30/2025, 1:21:18 AM`
+`Last Updated: 5/1/2025, 1:36:53 AM`
