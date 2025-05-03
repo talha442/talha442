@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
+### <blockquote>&ldquo;All human wisdom is contained in these two words - Wait and Hope&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/2/2025, 1:21:46 AM`
+`Last Updated: 5/3/2025, 1:19:47 AM`
