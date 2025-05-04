@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;All human wisdom is contained in these two words - Wait and Hope&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
+### <blockquote>&ldquo;Giving is living. If you stop wanting to give, there's nothing more to live for.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/3/2025, 1:19:47 AM`
+`Last Updated: 5/4/2025, 1:37:00 AM`
