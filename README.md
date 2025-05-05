@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Giving is living. If you stop wanting to give, there's nothing more to live for.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+### <blockquote>&ldquo;Dance first. Think later. It's the natural order.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/4/2025, 1:37:00 AM`
+`Last Updated: 5/5/2025, 1:24:58 AM`
