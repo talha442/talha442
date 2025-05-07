@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+### <blockquote>&ldquo;Be fascinated instead of frustrated.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/6/2025, 1:22:15 AM`
+`Last Updated: 5/7/2025, 1:22:57 AM`
