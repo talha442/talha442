@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Be fascinated instead of frustrated.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+### <blockquote>&ldquo;You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/7/2025, 1:22:57 AM`
+`Last Updated: 5/8/2025, 1:23:21 AM`
