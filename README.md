@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+### <blockquote>&ldquo;I believe that potential is unlimited - success depends on daring to act on dreams.   &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/11/2025, 1:27:46 AM`
+`Last Updated: 5/12/2025, 1:25:37 AM`
