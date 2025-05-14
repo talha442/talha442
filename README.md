@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+### <blockquote>&ldquo;Older men declare war. But it is youth that must fight and die.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/13/2025, 1:24:01 AM`
+`Last Updated: 5/14/2025, 1:22:43 AM`
