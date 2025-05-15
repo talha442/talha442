@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Older men declare war. But it is youth that must fight and die.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
+### <blockquote>&ldquo;In the middle of chaos lies opportunity.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/14/2025, 1:22:43 AM`
+`Last Updated: 5/15/2025, 1:20:58 AM`
