@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;In the middle of chaos lies opportunity.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+### <blockquote>&ldquo;Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/15/2025, 1:20:58 AM`
+`Last Updated: 5/16/2025, 1:23:54 AM`
