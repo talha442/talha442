@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;He who is untrue to his own cause cannot command the respect of others.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+### <blockquote>&ldquo;Much learning does not teach understanding.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/17/2025, 1:21:51 AM`
+`Last Updated: 5/18/2025, 1:36:39 AM`
