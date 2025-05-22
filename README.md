@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Wealth is the product of man's capacity to think.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+### <blockquote>&ldquo;Whatever you believe with feeling becomes your reality. &rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/21/2025, 1:24:27 AM`
+`Last Updated: 5/22/2025, 1:23:35 AM`
