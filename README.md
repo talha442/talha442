@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The secret of life is to fall seven times and to get up eight times.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+### <blockquote>&ldquo;You may be one person in this world, but to one person you may mean the world.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/24/2025, 1:20:54 AM`
+`Last Updated: 5/25/2025, 1:38:43 AM`
