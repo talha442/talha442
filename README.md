@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You may be one person in this world, but to one person you may mean the world.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;Fools resist. The wise embrace.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/25/2025, 1:38:43 AM`
+`Last Updated: 5/26/2025, 1:25:52 AM`
