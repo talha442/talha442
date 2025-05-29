@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+### <blockquote>&ldquo;The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/28/2025, 1:24:36 AM`
+`Last Updated: 5/29/2025, 1:24:20 AM`
