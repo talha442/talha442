@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+### <blockquote>&ldquo;As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/29/2025, 1:24:20 AM`
+`Last Updated: 5/30/2025, 1:22:07 AM`
