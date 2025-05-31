@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
+### <blockquote>&ldquo;There's no coming to consciousness without pain&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/30/2025, 1:22:07 AM`
+`Last Updated: 5/31/2025, 1:22:29 AM`
