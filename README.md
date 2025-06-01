@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;There's no coming to consciousness without pain&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+### <blockquote>&ldquo;Let each man exercise the art he knows.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/31/2025, 1:22:29 AM`
+`Last Updated: 6/1/2025, 1:47:35 AM`
