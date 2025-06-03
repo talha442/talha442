@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Where focus goes, energy flows.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+### <blockquote>&ldquo;Embrace the life you have and stop wishing that you could be someone else.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/2/2025, 1:27:53 AM`
+`Last Updated: 6/3/2025, 1:25:41 AM`
