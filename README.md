@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;All you need is the plan, the road map, and the courage to press on to your destination.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+### <blockquote>&ldquo;Life is ours to be spent, not to be saved. &rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/6/2025, 1:24:27 AM`
+`Last Updated: 6/7/2025, 1:23:57 AM`
