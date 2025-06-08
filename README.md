@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Life is ours to be spent, not to be saved. &rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
+### <blockquote>&ldquo;If we know how to adapt, we end up being superior.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/7/2025, 1:23:57 AM`
+`Last Updated: 6/8/2025, 1:40:40 AM`
