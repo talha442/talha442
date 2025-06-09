@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If we know how to adapt, we end up being superior.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+### <blockquote>&ldquo;You don't have to be great to start, but you have to start to be great.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/8/2025, 1:40:40 AM`
+`Last Updated: 6/9/2025, 1:38:32 AM`
