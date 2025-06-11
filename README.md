@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+### <blockquote>&ldquo;Truth is the offspring of silence and meditation.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/10/2025, 1:26:35 AM`
+`Last Updated: 6/11/2025, 1:26:17 AM`
