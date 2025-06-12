@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Truth is the offspring of silence and meditation.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+### <blockquote>&ldquo;Shoot for the moon, because even if you miss, you'll land among the stars.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/11/2025, 1:26:17 AM`
+`Last Updated: 6/12/2025, 1:24:49 AM`
