@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Shoot for the moon, because even if you miss, you'll land among the stars.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+### <blockquote>&ldquo;Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/12/2025, 1:24:49 AM`
+`Last Updated: 6/13/2025, 1:26:15 AM`
