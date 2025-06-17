@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
+### <blockquote>&ldquo;Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/16/2025, 1:37:32 AM`
+`Last Updated: 6/17/2025, 1:26:18 AM`
