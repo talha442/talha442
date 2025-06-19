@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;One never does wrong by doing right.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+### <blockquote>&ldquo;Before you embark on a journey of revenge, dig two graves. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/18/2025, 1:25:36 AM`
+`Last Updated: 6/19/2025, 1:26:16 AM`
