@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Before you embark on a journey of revenge, dig two graves. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
+### <blockquote>&ldquo;Find your Light; They can't love you if they can't see you.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/19/2025, 1:26:16 AM`
+`Last Updated: 6/20/2025, 1:25:19 AM`
