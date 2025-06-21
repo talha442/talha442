@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Find your Light; They can't love you if they can't see you.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
+### <blockquote>&ldquo;We have no more right to consume happiness without producing it than to consume wealth without producing it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/20/2025, 1:25:19 AM`
+`Last Updated: 6/21/2025, 1:24:48 AM`
