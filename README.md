@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We have no more right to consume happiness without producing it than to consume wealth without producing it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+### <blockquote>&ldquo;Truth is not something outside to be discovered, it is something inside to be realized.&rdquo; &mdash; <footer>Osho</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/21/2025, 1:24:48 AM`
+`Last Updated: 6/22/2025, 1:41:49 AM`
