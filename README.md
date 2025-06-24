@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Do not follow the ideas of others, but learn to listen to the voice within yourself.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+### <blockquote>&ldquo;It is ignorance that causes most mistakes.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/23/2025, 1:40:15 AM`
+`Last Updated: 6/24/2025, 1:26:39 AM`
