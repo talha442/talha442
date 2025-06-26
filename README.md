@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Victims recite problems, leaders provide solutions.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+### <blockquote>&ldquo;If you're really truthful with yourself, it's a wonderful guidance.  &rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/25/2025, 1:26:57 AM`
+`Last Updated: 6/26/2025, 1:25:54 AM`
