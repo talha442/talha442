@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you're really truthful with yourself, it's a wonderful guidance.  &rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
+### <blockquote>&ldquo;When the time is gone, you can never get it back.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/26/2025, 1:25:54 AM`
+`Last Updated: 6/27/2025, 1:26:49 AM`
