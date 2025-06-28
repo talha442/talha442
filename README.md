@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;When the time is gone, you can never get it back.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+### <blockquote>&ldquo;You don't have to be great to start, but you have to start to be great.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/27/2025, 1:26:49 AM`
+`Last Updated: 6/28/2025, 1:23:57 AM`
