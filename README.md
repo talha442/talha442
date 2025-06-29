@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You don't have to be great to start, but you have to start to be great.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+### <blockquote>&ldquo;Faith is taking the first step even when you don't see the whole staircase.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/28/2025, 1:23:57 AM`
+`Last Updated: 6/29/2025, 1:43:37 AM`
