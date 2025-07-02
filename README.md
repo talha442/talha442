@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+### <blockquote>&ldquo;Challenge yourself to find the good and beautiful thing inside of everyone.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/1/2025, 1:45:33 AM`
+`Last Updated: 7/2/2025, 1:26:40 AM`
