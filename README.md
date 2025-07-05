@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If no one ever broke the rules, then we'd never advance.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+### <blockquote>&ldquo;True life is lived when tiny changes occur.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/4/2025, 1:26:27 AM`
+`Last Updated: 7/5/2025, 1:23:36 AM`
