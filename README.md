@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It is dangerous to be right in matters on which the established authorities are wrong.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+### <blockquote>&ldquo;Do not try to be on the side of the majority, but live according to your inner laws.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/6/2025, 1:42:24 AM`
+`Last Updated: 7/7/2025, 1:40:22 AM`
