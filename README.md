@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Do not try to be on the side of the majority, but live according to your inner laws.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+### <blockquote>&ldquo;Life is a process. We are a process. The universe is a process.&rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/7/2025, 1:40:22 AM`
+`Last Updated: 7/8/2025, 1:27:09 AM`
