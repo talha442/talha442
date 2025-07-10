@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Life is not meant to be easy my child, but take courage: it can be delightful.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+### <blockquote>&ldquo;Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/9/2025, 1:37:05 AM`
+`Last Updated: 7/10/2025, 1:28:10 AM`
