@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+### <blockquote>&ldquo;Everyone is a moon, and has a dark side which he never shows to anybody.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/10/2025, 1:28:10 AM`
+`Last Updated: 7/11/2025, 1:38:04 AM`
