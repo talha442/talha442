@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Do one thing every day that scares you.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+### <blockquote>&ldquo;Comedy = tragedy + time.&rdquo; &mdash; <footer>Carol Burnett</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/12/2025, 1:39:32 AM`
+`Last Updated: 7/13/2025, 1:46:22 AM`
