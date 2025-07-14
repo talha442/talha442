@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Comedy = tragedy + time.&rdquo; &mdash; <footer>Carol Burnett</footer></blockquote>
+### <blockquote>&ldquo;Failure is acceptable. Not trying is a whole different ball park.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/13/2025, 1:46:22 AM`
+`Last Updated: 7/14/2025, 1:42:41 AM`
