@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+### <blockquote>&ldquo;People don't care how much you know until they know how much you care.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/15/2025, 1:43:02 AM`
+`Last Updated: 7/16/2025, 1:39:35 AM`
