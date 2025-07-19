@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The universe doesn't allow perfection.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+### <blockquote>&ldquo;Life is a question and how we live it is our answer.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/18/2025, 1:41:10 AM`
+`Last Updated: 7/19/2025, 1:28:08 AM`
