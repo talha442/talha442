@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Thinking will not overcome fear but action will. &rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>
+### <blockquote>&ldquo;It is indeed a radical act of love just to sit down and be quiet for a time by yourself.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/20/2025, 1:47:52 AM`
+`Last Updated: 7/21/2025, 1:45:36 AM`
