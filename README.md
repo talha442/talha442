@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A hut full of laughter is richer than a palace full of sadness.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+### <blockquote>&ldquo;If you do not get the chills when you set your goal you're not setting big enough goals.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/24/2025, 1:40:52 AM`
+`Last Updated: 7/25/2025, 1:40:31 AM`
