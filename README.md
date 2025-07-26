@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you do not get the chills when you set your goal you're not setting big enough goals.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+### <blockquote>&ldquo;Success is about creating value.&rdquo; &mdash; <footer>Candice Carpenter</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/25/2025, 1:40:31 AM`
+`Last Updated: 7/26/2025, 1:37:25 AM`
