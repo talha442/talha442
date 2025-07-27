@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Success is about creating value.&rdquo; &mdash; <footer>Candice Carpenter</footer></blockquote>
+### <blockquote>&ldquo;Expect the best, plan for the worst, and prepare to be surprised. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/26/2025, 1:37:25 AM`
+`Last Updated: 7/27/2025, 1:48:38 AM`
