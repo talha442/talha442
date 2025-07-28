@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Expect the best, plan for the worst, and prepare to be surprised. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
+### <blockquote>&ldquo;Life is too important to be taken seriously.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/27/2025, 1:48:38 AM`
+`Last Updated: 7/28/2025, 1:47:02 AM`
