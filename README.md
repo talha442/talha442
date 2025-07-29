@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Life is too important to be taken seriously.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+### <blockquote>&ldquo;If you are far from the enemy, make him believe you are near.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/28/2025, 1:47:02 AM`
+`Last Updated: 7/29/2025, 1:52:22 AM`
