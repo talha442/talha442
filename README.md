@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Before you embark on a journey of revenge, dig two graves. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
+### <blockquote>&ldquo;Instead of worrying about what you cannot control, shift your energy to what you can create.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/31/2025, 1:42:26 AM`
+`Last Updated: 8/1/2025, 1:52:13 AM`
