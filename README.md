@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Instead of worrying about what you cannot control, shift your energy to what you can create.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+### <blockquote>&ldquo;Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/1/2025, 1:52:13 AM`
+`Last Updated: 8/2/2025, 1:37:47 AM`
