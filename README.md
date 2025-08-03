@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+### <blockquote>&ldquo;The only man who never makes mistakes is the man who never does anything.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/2/2025, 1:37:47 AM`
+`Last Updated: 8/3/2025, 1:50:11 AM`
