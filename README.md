@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The only man who never makes mistakes is the man who never does anything.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+### <blockquote>&ldquo;Nothing has any power over me other than that which I give it through my conscious thoughts.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/3/2025, 1:50:11 AM`
+`Last Updated: 8/4/2025, 1:50:16 AM`
