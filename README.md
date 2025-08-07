@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Respect is earned by effort not age, all things age without effort.&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
+### <blockquote>&ldquo;Fear, uncertainty, and discomfort are your compasses toward growth.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/6/2025, 1:43:46 AM`
+`Last Updated: 8/7/2025, 1:43:40 AM`
