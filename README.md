@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Help others achieve their dreams and you will achieve yours.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+### <blockquote>&ldquo;Excellence is not a skill. It is an attitude. &rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/8/2025, 1:43:23 AM`
+`Last Updated: 8/9/2025, 1:26:20 AM`
