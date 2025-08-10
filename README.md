@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Excellence is not a skill. It is an attitude. &rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+### <blockquote>&ldquo;Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/9/2025, 1:26:20 AM`
+`Last Updated: 8/10/2025, 1:46:58 AM`
