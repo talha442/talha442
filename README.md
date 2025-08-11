@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Have a heart that never hardens, and a temper that never tires, and a touch that never hurts.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+### <blockquote>&ldquo;You're always free to change your mind and choose a different future, or a different past.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/10/2025, 1:46:58 AM`
+`Last Updated: 8/11/2025, 1:44:03 AM`
