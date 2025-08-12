@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You're always free to change your mind and choose a different future, or a different past.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+### <blockquote>&ldquo;Better late than never.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/11/2025, 1:44:03 AM`
+`Last Updated: 8/12/2025, 1:25:29 AM`
