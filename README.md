@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Better late than never.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+### <blockquote>&ldquo;Character is doing what you don't want to do but know you should do.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/12/2025, 1:25:29 AM`
+`Last Updated: 8/13/2025, 1:27:04 AM`
