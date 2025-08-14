@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Character is doing what you don't want to do but know you should do.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+### <blockquote>&ldquo;The four P's to success are pressure, persistence, perseverance, and prayer.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/13/2025, 1:27:04 AM`
+`Last Updated: 8/14/2025, 1:27:10 AM`
