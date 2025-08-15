@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The four P's to success are pressure, persistence, perseverance, and prayer.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+### <blockquote>&ldquo;Every strike brings me closer to the next home run. &rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/14/2025, 1:27:10 AM`
+`Last Updated: 8/15/2025, 1:27:46 AM`
