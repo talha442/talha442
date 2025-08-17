@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The real measure of your wealth is how much you'd be worth if you lost all your money.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;You Create Your Own Present By What You Give Your Attention To Today.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/16/2025, 1:23:36 AM`
+`Last Updated: 8/17/2025, 1:41:23 AM`
