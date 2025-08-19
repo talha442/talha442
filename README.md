@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Never be bored, and you will never be boring.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+### <blockquote>&ldquo;We suffer more often in imagination than in reality.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/18/2025, 1:41:40 AM`
+`Last Updated: 8/19/2025, 1:23:30 AM`
