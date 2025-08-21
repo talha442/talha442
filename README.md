@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It is in changing that we find purpose.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+### <blockquote>&ldquo;Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/20/2025, 1:21:39 AM`
+`Last Updated: 8/21/2025, 1:20:42 AM`
