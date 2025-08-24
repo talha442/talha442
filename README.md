@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The golden opportunity you are seeking is within yourself.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
+### <blockquote>&ldquo;Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/23/2025, 1:19:02 AM`
+`Last Updated: 8/24/2025, 1:37:48 AM`
