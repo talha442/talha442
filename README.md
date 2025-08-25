@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
+### <blockquote>&ldquo;Life is a traveling to the edge of knowledge, then a leap taken.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/24/2025, 1:37:48 AM`
+`Last Updated: 8/25/2025, 1:24:40 AM`
