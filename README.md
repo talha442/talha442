@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Life is a traveling to the edge of knowledge, then a leap taken.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
+### <blockquote>&ldquo;The future belongs to those who learn more skills and combine them in creative ways.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/25/2025, 1:24:40 AM`
+`Last Updated: 8/26/2025, 1:22:26 AM`
