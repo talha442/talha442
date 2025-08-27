@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The future belongs to those who learn more skills and combine them in creative ways.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+### <blockquote>&ldquo;If it entertains you now but will bore you someday, it's a distraction. Keep looking.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/26/2025, 1:22:26 AM`
+`Last Updated: 8/27/2025, 1:20:09 AM`
