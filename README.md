@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If it entertains you now but will bore you someday, it's a distraction. Keep looking.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+### <blockquote>&ldquo;Look to the beauty of this day, miracles are all around you.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/27/2025, 1:20:09 AM`
+`Last Updated: 8/28/2025, 1:19:25 AM`
