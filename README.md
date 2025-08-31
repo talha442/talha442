@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The golden opportunity you are seeking is within yourself.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
+### <blockquote>&ldquo;You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/30/2025, 1:15:39 AM`
+`Last Updated: 8/31/2025, 1:24:10 AM`
