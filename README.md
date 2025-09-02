@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Change yourself - you are in control.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
+### <blockquote>&ldquo;Passion creates, addiction consumes.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/1/2025, 1:40:17 AM`
+`Last Updated: 9/2/2025, 1:20:37 AM`
