@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Failure is an option here. If things are not failing, you are not innovating enough.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+### <blockquote>&ldquo;Some people don't like change, but you need to embrace change if the alternative is disaster.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/3/2025, 1:16:01 AM`
+`Last Updated: 9/4/2025, 1:15:52 AM`
