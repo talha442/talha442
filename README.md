@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Success is achieved and maintained by those who try and keep trying. &rdquo; &mdash; <footer>W. Clement Stone</footer></blockquote>
+### <blockquote>&ldquo;It is not fair to ask of others what you are not willing to do yourself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/5/2025, 1:17:29 AM`
+`Last Updated: 9/6/2025, 1:15:36 AM`
