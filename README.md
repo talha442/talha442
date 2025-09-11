@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+### <blockquote>&ldquo;If you want peace, accept. If you want suffering, expect.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/10/2025, 1:16:44 AM`
+`Last Updated: 9/11/2025, 1:18:29 AM`
