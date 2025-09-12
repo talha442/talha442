@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you want peace, accept. If you want suffering, expect.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+### <blockquote>&ldquo;You are never too old to set another goal or to dream a new dream.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/11/2025, 1:18:29 AM`
+`Last Updated: 9/12/2025, 1:15:16 AM`
