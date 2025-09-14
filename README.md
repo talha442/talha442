@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Walk slowly but never walk backward.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;The Art of Peace begins with you.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/13/2025, 1:12:32 AM`
+`Last Updated: 9/14/2025, 1:22:18 AM`
