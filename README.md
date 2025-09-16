@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Rudeness is the weak man's imitation of strength.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+### <blockquote>&ldquo;If you can change your mind, you can change your life.&rdquo; &mdash; <footer>William James</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/15/2025, 1:22:24 AM`
+`Last Updated: 9/16/2025, 1:16:29 AM`
