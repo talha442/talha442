@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+### <blockquote>&ldquo;If you change the way you look at things, the things you look at change. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/20/2025, 1:14:55 AM`
+`Last Updated: 9/21/2025, 1:24:24 AM`
