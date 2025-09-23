@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;I was angered, for I had no shoes. Then I met a man who had no feet. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+### <blockquote>&ldquo;There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/22/2025, 1:23:23 AM`
+`Last Updated: 9/23/2025, 1:17:02 AM`
