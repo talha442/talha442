@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
+### <blockquote>&ldquo;I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/23/2025, 1:17:02 AM`
+`Last Updated: 9/24/2025, 1:17:39 AM`
