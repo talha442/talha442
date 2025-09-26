@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+### <blockquote>&ldquo;Discontent is the first necessity of progress.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/25/2025, 1:18:10 AM`
+`Last Updated: 9/26/2025, 1:17:41 AM`
