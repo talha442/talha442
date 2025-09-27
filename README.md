@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Discontent is the first necessity of progress.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+### <blockquote>&ldquo;The heart wants what it wants. There's no logic. &rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/26/2025, 1:17:41 AM`
+`Last Updated: 9/27/2025, 1:14:52 AM`
