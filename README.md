@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The heart wants what it wants. There's no logic. &rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
+### <blockquote>&ldquo;Don't look for meaning in the words. Listen to the silences.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/27/2025, 1:14:52 AM`
+`Last Updated: 9/28/2025, 1:25:11 AM`
