@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Most people get ahead during the time that others waste.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+### <blockquote>&ldquo;It is often safer to be in chains than to be free. &rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/30/2025, 1:19:07 AM`
+`Last Updated: 10/1/2025, 1:26:17 AM`
