@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You never know when a moment and a few sincere words can have an impact on a life.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+### <blockquote>&ldquo;In nature there is no alienation. Everything belongs.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/2/2025, 1:16:15 AM`
+`Last Updated: 10/3/2025, 1:16:10 AM`
