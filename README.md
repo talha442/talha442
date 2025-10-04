@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;In nature there is no alienation. Everything belongs.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+### <blockquote>&ldquo;Do not try to be on the side of the majority, but live according to your inner laws.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/3/2025, 1:16:10 AM`
+`Last Updated: 10/4/2025, 1:14:09 AM`
