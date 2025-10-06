@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;When we have our body and mind in order, everything else will exist in the right place, in the right way.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+### <blockquote>&ldquo;The way of success is the way of continuous pursuit of knowledge.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/5/2025, 1:24:28 AM`
+`Last Updated: 10/6/2025, 1:18:38 AM`
