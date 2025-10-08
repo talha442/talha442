@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Make peace with your inner turmoil.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;The score never interested me, only the game.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/7/2025, 1:17:18 AM`
+`Last Updated: 10/8/2025, 1:17:14 AM`
