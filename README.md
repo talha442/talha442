@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+### <blockquote>&ldquo;If a thing is worth doing, it is worth doing badly.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/10/2025, 1:18:05 AM`
+`Last Updated: 10/11/2025, 1:15:09 AM`
