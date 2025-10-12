@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If a thing is worth doing, it is worth doing badly.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+### <blockquote>&ldquo;Absorb what is useful, discard what is useless and add what is specifically your own.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/11/2025, 1:15:09 AM`
+`Last Updated: 10/12/2025, 1:21:25 AM`
