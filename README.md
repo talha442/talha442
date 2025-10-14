@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The less you respond to negative people, the more positive your life will become.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+### <blockquote>&ldquo;Remember the entrance to the sanctuary is inside you.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/13/2025, 1:23:02 AM`
+`Last Updated: 10/14/2025, 1:18:00 AM`
