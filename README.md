@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We are willing to believe anything other than the truth.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+### <blockquote>&ldquo;Happiness is an effect of doing what you love, not an end goal to be achieved.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/15/2025, 1:19:54 AM`
+`Last Updated: 10/16/2025, 1:19:33 AM`
