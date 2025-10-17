@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Happiness is an effect of doing what you love, not an end goal to be achieved.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+### <blockquote>&ldquo;Everybody has talent, but ability takes hard work.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/16/2025, 1:19:33 AM`
+`Last Updated: 10/17/2025, 1:19:27 AM`
