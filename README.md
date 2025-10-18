@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Everybody has talent, but ability takes hard work.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
+### <blockquote>&ldquo;Desire for the fruits of work must never be your motive in working.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/17/2025, 1:19:27 AM`
+`Last Updated: 10/18/2025, 1:15:36 AM`
