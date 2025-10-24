@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The merit of all things lies in their difficulty.&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
+### <blockquote>&ldquo;I skate to where the puck is going to be, not where it has been.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/23/2025, 1:20:47 AM`
+`Last Updated: 10/24/2025, 1:17:13 AM`
