@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;I skate to where the puck is going to be, not where it has been.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
+### <blockquote>&ldquo;To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/24/2025, 1:17:13 AM`
+`Last Updated: 10/25/2025, 1:18:28 AM`
