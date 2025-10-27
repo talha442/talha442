@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Start the day with love, spend the day with love, fill the day with love and end the day with love.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+### <blockquote>&ldquo;Setting goals is the first step in turning the invisible into the visible.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/26/2025, 1:25:47 AM`
+`Last Updated: 10/27/2025, 1:27:31 AM`
