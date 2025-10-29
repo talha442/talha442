@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A clear conscience never fears midnight knocking.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+### <blockquote>&ldquo;Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/28/2025, 1:19:40 AM`
+`Last Updated: 10/29/2025, 1:25:04 AM`
