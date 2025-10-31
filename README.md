@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+### <blockquote>&ldquo;In three words I can sum up everything I've learned about life: it goes on.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/30/2025, 1:24:44 AM`
+`Last Updated: 10/31/2025, 1:22:14 AM`
