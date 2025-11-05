@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The only real mistake is the one from which we learn nothing. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+### <blockquote>&ldquo;People who avoid failure also avoid success.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/4/2025, 1:22:57 AM`
+`Last Updated: 11/5/2025, 1:23:53 AM`
