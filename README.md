@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Elegance does not consist in putting on a new dress.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
+### <blockquote>&ldquo;You are not what you think you are, You are not what others think you are, You are what you think others think you are.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/6/2025, 1:23:32 AM`
+`Last Updated: 11/7/2025, 1:23:17 AM`
