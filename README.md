@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You are not what you think you are, You are not what others think you are, You are what you think others think you are.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/7/2025, 1:23:17 AM`
+`Last Updated: 11/8/2025, 1:19:00 AM`
