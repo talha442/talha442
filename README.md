@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+### <blockquote>&ldquo;No man is happy unless he believes he is.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/8/2025, 1:19:00 AM`
+`Last Updated: 11/9/2025, 1:26:37 AM`
