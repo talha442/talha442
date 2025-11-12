@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We can either add to our character each day, or we can fritter away our energies in distractions.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+### <blockquote>&ldquo;I was angered, for I had no shoes. Then I met a man who had no feet. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/11/2025, 1:24:05 AM`
+`Last Updated: 11/12/2025, 1:23:33 AM`
