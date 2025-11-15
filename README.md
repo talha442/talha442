@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you see someone without a smile give them one of yours.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;With the new day comes new strength and new thoughts.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/14/2025, 1:24:05 AM`
+`Last Updated: 11/15/2025, 1:21:18 AM`
