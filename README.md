@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+### <blockquote>&ldquo;First learn the meaning of what you say, and then speak.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/16/2025, 1:36:25 AM`
+`Last Updated: 11/17/2025, 1:24:38 AM`
