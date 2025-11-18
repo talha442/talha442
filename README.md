@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;First learn the meaning of what you say, and then speak.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+### <blockquote>&ldquo;To get angry is like to revenge yourself for the guilt of others.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/17/2025, 1:24:38 AM`
+`Last Updated: 11/18/2025, 1:23:31 AM`
