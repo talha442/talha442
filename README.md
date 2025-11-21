@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If your mind is empty, it is always ready for anything, it is open to everything.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+### <blockquote>&ldquo;Open your eyes and look within. Are you satisfied with the life you're living?&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/20/2025, 1:22:01 AM`
+`Last Updated: 11/21/2025, 1:22:49 AM`
