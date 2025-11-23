@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Walk slowly but never walk backward.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;Faithless is he that says farewell when the road darkens.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/22/2025, 1:20:12 AM`
+`Last Updated: 11/23/2025, 1:42:41 AM`
