@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Faithless is he that says farewell when the road darkens.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+### <blockquote>&ldquo;Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/23/2025, 1:42:41 AM`
+`Last Updated: 11/24/2025, 1:38:13 AM`
