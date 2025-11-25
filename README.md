@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+### <blockquote>&ldquo;When a man is penalized for honesty he learns to lie.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/24/2025, 1:38:13 AM`
+`Last Updated: 11/25/2025, 1:23:49 AM`
