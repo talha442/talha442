@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;When a man is penalized for honesty he learns to lie.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+### <blockquote>&ldquo;Music is like creating an emotional painting. The sounds are the colors.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/25/2025, 1:23:49 AM`
+`Last Updated: 11/26/2025, 1:24:07 AM`
