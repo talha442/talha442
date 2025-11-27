@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Music is like creating an emotional painting. The sounds are the colors.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+### <blockquote>&ldquo;If it's not broken, tinker with it till you find out how it works.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/26/2025, 1:24:07 AM`
+`Last Updated: 11/27/2025, 1:22:44 AM`
