@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If it's not broken, tinker with it till you find out how it works.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+### <blockquote>&ldquo;A dream you dream alone is only a dream. A dream you dream together is reality.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/27/2025, 1:22:44 AM`
+`Last Updated: 11/28/2025, 1:21:54 AM`
