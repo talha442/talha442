@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We take care of the future best by taking care of the present now.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
+### <blockquote>&ldquo;Only when I fall do I get up again.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/2/2025, 1:25:39 AM`
+`Last Updated: 12/3/2025, 1:25:38 AM`
