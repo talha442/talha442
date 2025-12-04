@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Only when I fall do I get up again.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+### <blockquote>&ldquo;To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/3/2025, 1:25:38 AM`
+`Last Updated: 12/4/2025, 1:26:13 AM`
