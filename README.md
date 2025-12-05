@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+### <blockquote>&ldquo;Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/4/2025, 1:26:13 AM`
+`Last Updated: 12/5/2025, 1:26:21 AM`
