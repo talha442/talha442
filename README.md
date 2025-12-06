@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+### <blockquote>&ldquo;Adults are just children who earn money.&rdquo; &mdash; <footer>Kenneth Branagh</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/5/2025, 1:26:21 AM`
+`Last Updated: 12/6/2025, 1:22:01 AM`
