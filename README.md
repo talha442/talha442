@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Unless you change how you are, you will always have what you got.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+### <blockquote>&ldquo;The only real mistake is the one from which we learn nothing. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/7/2025, 1:42:00 AM`
+`Last Updated: 12/8/2025, 1:26:36 AM`
