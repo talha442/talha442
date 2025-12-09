@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The only real mistake is the one from which we learn nothing. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+### <blockquote>&ldquo;The worst part of success is trying to find someone who is happy for you.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/8/2025, 1:26:36 AM`
+`Last Updated: 12/9/2025, 1:25:57 AM`
