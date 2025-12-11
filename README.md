@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A fear of weakness only strengthens weakness.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+### <blockquote>&ldquo;Words are clothes that thoughts wear&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/10/2025, 1:27:38 AM`
+`Last Updated: 12/11/2025, 1:37:30 AM`
