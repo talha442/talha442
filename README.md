@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Words are clothes that thoughts wear&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
+### <blockquote>&ldquo;Your neighbor is the man who needs you.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/11/2025, 1:37:30 AM`
+`Last Updated: 12/12/2025, 1:28:07 AM`
