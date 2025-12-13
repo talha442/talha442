@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Your neighbor is the man who needs you.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+### <blockquote>&ldquo;The time is always right to do what is right.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/12/2025, 1:28:07 AM`
+`Last Updated: 12/13/2025, 1:23:34 AM`
