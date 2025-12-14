@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The time is always right to do what is right.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+### <blockquote>&ldquo;Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/13/2025, 1:23:34 AM`
+`Last Updated: 12/14/2025, 1:42:36 AM`
