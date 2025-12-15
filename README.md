@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+### <blockquote>&ldquo;Do it with passion, or not at all.&rdquo; &mdash; <footer>Rosa Nouchette Carey</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/14/2025, 1:42:36 AM`
+`Last Updated: 12/15/2025, 1:40:51 AM`
