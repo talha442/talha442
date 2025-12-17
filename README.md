@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Even the smallest person can change the course of the future.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+### <blockquote>&ldquo;What we dwell on is who we become.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/16/2025, 1:38:12 AM`
+`Last Updated: 12/17/2025, 1:24:12 AM`
