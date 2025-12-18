@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;What we dwell on is who we become.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+### <blockquote>&ldquo;Health is the greatest of all possessions.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/17/2025, 1:24:12 AM`
+`Last Updated: 12/18/2025, 1:24:57 AM`
