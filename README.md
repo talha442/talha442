@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Health is the greatest of all possessions.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+### <blockquote>&ldquo;The educated differ from the uneducated as much as the living differ from the dead.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/18/2025, 1:24:57 AM`
+`Last Updated: 12/19/2025, 1:27:58 AM`
