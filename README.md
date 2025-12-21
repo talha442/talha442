@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A mountain never yields to the wind no matter how strong it is.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+### <blockquote>&ldquo;There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.&rdquo; &mdash; <footer>G.I. Gurdjieff</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/20/2025, 1:24:07 AM`
+`Last Updated: 12/21/2025, 1:42:40 AM`
