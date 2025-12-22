@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction.&rdquo; &mdash; <footer>G.I. Gurdjieff</footer></blockquote>
+### <blockquote>&ldquo;He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.&rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/21/2025, 1:42:40 AM`
+`Last Updated: 12/22/2025, 1:42:06 AM`
