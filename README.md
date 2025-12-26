@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+### <blockquote>&ldquo;First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/25/2025, 1:28:22 AM`
+`Last Updated: 12/26/2025, 1:37:41 AM`
