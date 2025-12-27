@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+### <blockquote>&ldquo;Throughout this life, you can never be certain of living long enough to take another breath.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/26/2025, 1:37:41 AM`
+`Last Updated: 12/27/2025, 1:26:40 AM`
