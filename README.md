@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you're afraid to die, you're afraid to live. You can't have one without the other.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote>
+### <blockquote>&ldquo;Life is like playing the violin in public and learning the instrument as one goes on.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/29/2025, 1:45:47 AM`
+`Last Updated: 12/30/2025, 1:38:24 AM`
