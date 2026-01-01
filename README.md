@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Those who realize their folly are not true fools.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
+### <blockquote>&ldquo;Treat everyone with politeness and kindness, not because they are nice, but because you are.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 12/31/2025, 1:39:01 AM`
+`Last Updated: 1/1/2026, 1:48:32 AM`
