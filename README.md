@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Treat everyone with politeness and kindness, not because they are nice, but because you are.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+### <blockquote>&ldquo;Knowledge is a treasure, but practice is the key to it.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/1/2026, 1:48:32 AM`
+`Last Updated: 1/2/2026, 1:40:23 AM`
