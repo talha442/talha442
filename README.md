@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Knowledge is a treasure, but practice is the key to it.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+### <blockquote>&ldquo;An intelligent person hires people who are more intelligent than he is.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/2/2026, 1:40:23 AM`
+`Last Updated: 1/3/2026, 1:25:51 AM`
