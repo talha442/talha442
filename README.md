@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;An intelligent person hires people who are more intelligent than he is.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+### <blockquote>&ldquo;Art, like morality, consists of drawing the line somewhere.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/3/2026, 1:25:51 AM`
+`Last Updated: 1/4/2026, 1:48:42 AM`
