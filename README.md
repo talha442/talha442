@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Art, like morality, consists of drawing the line somewhere.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+### <blockquote>&ldquo;Raise your words, not voice. It is rain that grows flowers, not thunder.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/4/2026, 1:48:42 AM`
+`Last Updated: 1/5/2026, 1:48:46 AM`
