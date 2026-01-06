@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Raise your words, not voice. It is rain that grows flowers, not thunder.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+### <blockquote>&ldquo;Every hour of every day is an unspeakably perfect miracle.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/5/2026, 1:48:46 AM`
+`Last Updated: 1/6/2026, 1:40:31 AM`
