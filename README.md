@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Anxiety is the dizziness of freedom.&rdquo; &mdash; <footer>Soren Kierkegaard</footer></blockquote>
+### <blockquote>&ldquo;When you want something in life, you just gotta reach out and grab it.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/7/2026, 1:40:04 AM`
+`Last Updated: 1/8/2026, 1:40:32 AM`
