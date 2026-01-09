@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;When you want something in life, you just gotta reach out and grab it.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
+### <blockquote>&ldquo;Life goes by fast. Enjoy it. Calm down. It's all funny.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/8/2026, 1:40:32 AM`
+`Last Updated: 1/9/2026, 1:40:54 AM`
