@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It doesn't matter where you are coming from. All that matters is where you are going. &rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+### <blockquote>&ldquo;Time you enjoy wasting, was not wasted.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/10/2026, 1:37:36 AM`
+`Last Updated: 1/11/2026, 1:48:43 AM`
