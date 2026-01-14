@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Falling down is not failure. Failure comes when you stay where you have fallen.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+### <blockquote>&ldquo;The soul without imagination is what an observatory would be without a telescope.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/13/2026, 1:27:51 AM`
+`Last Updated: 1/14/2026, 1:44:18 AM`
