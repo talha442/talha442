@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The soul without imagination is what an observatory would be without a telescope.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+### <blockquote>&ldquo;Arise, slay thy enemies, enjoy a prosperous kingdom.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/14/2026, 1:44:18 AM`
+`Last Updated: 1/15/2026, 1:39:14 AM`
