@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Only those who will risk going too far can possibly find out how far one can go.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+### <blockquote>&ldquo;Force has no place where there is need of skill. &rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/17/2026, 1:27:46 AM`
+`Last Updated: 1/18/2026, 1:47:28 AM`
