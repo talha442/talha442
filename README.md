@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
+### <blockquote>&ldquo;Art is to console those who are broken by life.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/21/2026, 1:44:06 AM`
+`Last Updated: 1/22/2026, 1:43:46 AM`
