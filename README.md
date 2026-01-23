@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Art is to console those who are broken by life.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+### <blockquote>&ldquo;Courage is the price that life exacts for granting peace.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/22/2026, 1:43:46 AM`
+`Last Updated: 1/23/2026, 1:40:56 AM`
