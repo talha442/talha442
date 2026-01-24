@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Courage is the price that life exacts for granting peace.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+### <blockquote>&ldquo;The key to immortality is first living a life worth remembering. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/23/2026, 1:40:56 AM`
+`Last Updated: 1/24/2026, 1:38:23 AM`
