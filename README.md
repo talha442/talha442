@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A person hears only what they understand.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+### <blockquote>&ldquo;Anything becomes interesting if you look at it long enough..&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/26/2026, 1:49:54 AM`
+`Last Updated: 1/27/2026, 1:47:08 AM`
