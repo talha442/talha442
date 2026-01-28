@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Anything becomes interesting if you look at it long enough..&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
+### <blockquote>&ldquo;Rest in reason; move in passion.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/27/2026, 1:47:08 AM`
+`Last Updated: 1/28/2026, 1:43:35 AM`
