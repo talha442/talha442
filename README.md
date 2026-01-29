@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Rest in reason; move in passion.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+### <blockquote>&ldquo;The real measure of your wealth is how much you'd be worth if you lost all your money.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/28/2026, 1:43:35 AM`
+`Last Updated: 1/29/2026, 1:55:52 AM`
