@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The real measure of your wealth is how much you'd be worth if you lost all your money.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;Your life does not get better by chance, it gets better by change.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/29/2026, 1:55:52 AM`
+`Last Updated: 1/30/2026, 1:55:56 AM`
