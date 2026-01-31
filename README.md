@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Your life does not get better by chance, it gets better by change.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+### <blockquote>&ldquo;If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.&rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/30/2026, 1:55:56 AM`
+`Last Updated: 1/31/2026, 1:52:11 AM`
