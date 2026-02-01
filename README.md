@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.&rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
+### <blockquote>&ldquo;A Quitter never wins - and - a Winner never quits.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 1/31/2026, 1:52:11 AM`
+`Last Updated: 2/1/2026, 2:11:51 AM`
