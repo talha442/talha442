@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A Quitter never wins - and - a Winner never quits.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+### <blockquote>&ldquo;To bear trials with a calm mind robs misfortune of its strength and burden.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/1/2026, 2:11:51 AM`
+`Last Updated: 2/2/2026, 2:03:53 AM`
