@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;To bear trials with a calm mind robs misfortune of its strength and burden.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
+### <blockquote>&ldquo;Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/2/2026, 2:03:53 AM`
+`Last Updated: 2/3/2026, 2:02:24 AM`
