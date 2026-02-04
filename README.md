@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+### <blockquote>&ldquo;Success is an iceberg.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/3/2026, 2:02:24 AM`
+`Last Updated: 2/4/2026, 1:57:28 AM`
