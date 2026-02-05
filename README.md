@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Success is an iceberg.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/4/2026, 1:57:28 AM`
+`Last Updated: 2/5/2026, 1:58:51 AM`
