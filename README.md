@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;In matters of style, swim with the current; in matters of principle, stand like a rock.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
+### <blockquote>&ldquo;The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/8/2026, 2:27:34 AM`
+`Last Updated: 2/9/2026, 2:05:45 AM`
