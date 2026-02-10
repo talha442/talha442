@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+### <blockquote>&ldquo;An un-examined life is not worth living.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/9/2026, 2:05:45 AM`
+`Last Updated: 2/10/2026, 2:22:51 AM`
