@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Happiness is only real, when shared.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
+### <blockquote>&ldquo;The present moment is filled with joy and happiness. If you are attentive, you will see it.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/11/2026, 2:11:33 AM`
+`Last Updated: 2/12/2026, 2:05:18 AM`
