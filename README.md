@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The present moment is filled with joy and happiness. If you are attentive, you will see it.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+### <blockquote>&ldquo;The secret of life isn't what happens to you, but what you do with what happens to you.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/12/2026, 2:05:18 AM`
+`Last Updated: 2/13/2026, 2:08:02 AM`
