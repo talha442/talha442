@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The secret of life isn't what happens to you, but what you do with what happens to you.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+### <blockquote>&ldquo;If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/13/2026, 2:08:02 AM`
+`Last Updated: 2/14/2026, 1:56:32 AM`
