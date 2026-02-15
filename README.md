@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you practiced for the day, then you have won. If you were lazy for the day, then you have lost.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+### <blockquote>&ldquo;The sun is new each day.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/14/2026, 1:56:32 AM`
+`Last Updated: 2/15/2026, 2:07:27 AM`
