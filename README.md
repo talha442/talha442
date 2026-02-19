@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It is the power of the mind to be unconquerable.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
+### <blockquote>&ldquo;Thinking is the hardest work there is. That is why so few people engage in it.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/18/2026, 2:04:26 AM`
+`Last Updated: 2/19/2026, 2:03:19 AM`
