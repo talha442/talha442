@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Keep your eyes on the stars, but remember to keep your feet on the ground.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+### <blockquote>&ldquo;The road to success and the road to failure are almost exactly the same.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/20/2026, 1:59:16 AM`
+`Last Updated: 2/21/2026, 1:53:57 AM`
