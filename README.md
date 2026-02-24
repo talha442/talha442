@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The past has no power over the present moment. &rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+### <blockquote>&ldquo;You're braver than you believe, and stronger than you seem, and smarter than you think.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/23/2026, 2:03:55 AM`
+`Last Updated: 2/24/2026, 2:00:19 AM`
