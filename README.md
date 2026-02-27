@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Not doing it is certainly the best way to not getting it.  &rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
+### <blockquote>&ldquo;Time doesn't heal emotional pain, you need to learn how to let go.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/26/2026, 1:58:23 AM`
+`Last Updated: 2/27/2026, 1:57:34 AM`
