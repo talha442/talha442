@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Empty yourself of everything - let the mind become still.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+### <blockquote>&ldquo;Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 2/28/2026, 1:48:04 AM`
+`Last Updated: 3/1/2026, 2:09:48 AM`
