@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You came empty handed, and you will leave empty handed.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+### <blockquote>&ldquo;If you spend too much time thinking about a thing, you'll never get it done. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/4/2026, 1:56:28 AM`
+`Last Updated: 3/5/2026, 1:59:27 AM`
