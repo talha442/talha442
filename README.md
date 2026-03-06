@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you spend too much time thinking about a thing, you'll never get it done. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+### <blockquote>&ldquo;Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/5/2026, 1:59:27 AM`
+`Last Updated: 3/6/2026, 1:59:51 AM`
