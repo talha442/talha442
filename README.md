@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+### <blockquote>&ldquo;It is better to fail in originality than to succeed in imitation.&rdquo; &mdash; <footer>Herman Melville</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/8/2026, 2:01:08 AM`
+`Last Updated: 3/9/2026, 2:02:20 AM`
