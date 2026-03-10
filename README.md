@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It is better to fail in originality than to succeed in imitation.&rdquo; &mdash; <footer>Herman Melville</footer></blockquote>
+### <blockquote>&ldquo;Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/9/2026, 2:02:20 AM`
+`Last Updated: 3/10/2026, 1:54:33 AM`
