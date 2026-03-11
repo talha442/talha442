@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
+### <blockquote>&ldquo;Don't look for meaning in the words. Listen to the silences.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/10/2026, 1:54:33 AM`
+`Last Updated: 3/11/2026, 1:54:31 AM`
