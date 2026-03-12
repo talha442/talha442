@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Don't look for meaning in the words. Listen to the silences.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
+### <blockquote>&ldquo;No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/11/2026, 1:54:31 AM`
+`Last Updated: 3/12/2026, 2:00:41 AM`
