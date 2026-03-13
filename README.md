@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+### <blockquote>&ldquo;Don't seek, don't avoid, don't expect. Take what comes and be happy.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/12/2026, 2:00:41 AM`
+`Last Updated: 3/13/2026, 1:58:41 AM`
