@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Normal is the average of deviance.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote>
+### <blockquote>&ldquo;A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/14/2026, 1:55:49 AM`
+`Last Updated: 3/15/2026, 2:12:42 AM`
