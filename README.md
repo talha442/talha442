@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+### <blockquote>&ldquo;The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/15/2026, 2:12:42 AM`
+`Last Updated: 3/16/2026, 2:22:06 AM`
