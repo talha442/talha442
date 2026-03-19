@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
+### <blockquote>&ldquo;Don't blame others. it won't make you a better person.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/18/2026, 2:05:08 AM`
+`Last Updated: 3/19/2026, 2:06:13 AM`
