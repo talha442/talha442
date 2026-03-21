@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Words can only have a positive effect on others if and when they are ready to listen.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
+### <blockquote>&ldquo;We've got to live, no matter how many skies have fallen.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/20/2026, 2:00:21 AM`
+`Last Updated: 3/21/2026, 1:54:15 AM`
