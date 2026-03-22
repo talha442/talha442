@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We've got to live, no matter how many skies have fallen.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
+### <blockquote>&ldquo;Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/21/2026, 1:54:15 AM`
+`Last Updated: 3/22/2026, 2:06:47 AM`
