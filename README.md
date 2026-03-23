@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+### <blockquote>&ldquo;Don't stumble over something that's behind you.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/22/2026, 2:06:47 AM`
+`Last Updated: 3/23/2026, 2:07:28 AM`
