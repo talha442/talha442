@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Fear not the path of Truth for the lack of People walking on it.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
+### <blockquote>&ldquo;It is amazing what you can accomplish if you do not care who gets the credit.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/24/2026, 1:59:27 AM`
+`Last Updated: 3/25/2026, 2:05:08 AM`
