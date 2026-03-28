@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The attempt to escape from pain, is what creates more pain.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote>
+### <blockquote>&ldquo;Life can be wonderful if you're not afraid of it.&rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/27/2026, 2:11:59 AM`
+`Last Updated: 3/28/2026, 2:03:20 AM`
