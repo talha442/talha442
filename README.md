@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Never was anything great achieved without danger.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>
+### <blockquote>&ldquo;If anything is worth doing, do it with all your heart.&rdquo; &mdash; <footer>Buddha</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/29/2026, 2:22:50 AM`
+`Last Updated: 3/30/2026, 2:25:01 AM`
