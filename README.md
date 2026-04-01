@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Your gift is something that you can do innately better than anything else.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+### <blockquote>&ldquo;Challenge yourself to find the good and beautiful thing inside of everyone.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 3/31/2026, 2:12:32 AM`
+`Last Updated: 4/1/2026, 2:29:53 AM`
