@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Challenge yourself to find the good and beautiful thing inside of everyone.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+### <blockquote>&ldquo;It's not the love you make. It's the love you give. &rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/1/2026, 2:29:53 AM`
+`Last Updated: 4/2/2026, 2:08:53 AM`
