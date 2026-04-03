@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It's not the love you make. It's the love you give. &rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
+### <blockquote>&ldquo;If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/2/2026, 2:08:53 AM`
+`Last Updated: 4/3/2026, 2:10:40 AM`
