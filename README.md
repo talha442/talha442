@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote>
+### <blockquote>&ldquo;Trusting our intuition often saves us from disaster. &rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/5/2026, 2:24:45 AM`
+`Last Updated: 4/6/2026, 2:25:47 AM`
