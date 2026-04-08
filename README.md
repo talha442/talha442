@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;What keeps life fascinating is the constant creativity of the soul.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+### <blockquote>&ldquo;Creative endeavors are by their nature uncertain.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/7/2026, 2:13:26 AM`
+`Last Updated: 4/8/2026, 2:22:14 AM`
