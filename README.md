@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Creative endeavors are by their nature uncertain.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+### <blockquote>&ldquo;When you love someone, you love the person as they are, and not as you'd like them to be.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/8/2026, 2:22:14 AM`
+`Last Updated: 4/9/2026, 2:08:13 AM`
