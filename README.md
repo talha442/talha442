@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;When you love someone, you love the person as they are, and not as you'd like them to be.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+### <blockquote>&ldquo;You are today where your thoughts have brought you.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/9/2026, 2:08:13 AM`
+`Last Updated: 4/10/2026, 2:27:15 AM`
