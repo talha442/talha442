@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Unhappiness enters through a door that has been left open.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+### <blockquote>&ldquo;Every drop in the ocean counts. &rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/11/2026, 2:07:13 AM`
+`Last Updated: 4/12/2026, 2:29:30 AM`
