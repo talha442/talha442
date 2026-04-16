@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Darkness is the absence of light.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+### <blockquote>&ldquo;Paths are made by walking.&rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/15/2026, 2:26:36 AM`
+`Last Updated: 4/16/2026, 2:33:25 AM`
