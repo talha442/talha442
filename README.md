@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Paths are made by walking.&rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>
+### <blockquote>&ldquo;Just do the best you can. No one can do more than that.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/16/2026, 2:33:25 AM`
+`Last Updated: 4/17/2026, 2:29:19 AM`
