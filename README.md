@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Just do the best you can. No one can do more than that.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+### <blockquote>&ldquo;If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/17/2026, 2:29:19 AM`
+`Last Updated: 4/18/2026, 2:12:22 AM`
