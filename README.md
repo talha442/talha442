@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+### <blockquote>&ldquo;When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/19/2026, 2:33:57 AM`
+`Last Updated: 4/20/2026, 2:34:33 AM`
