@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+### <blockquote>&ldquo;Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/20/2026, 2:34:33 AM`
+`Last Updated: 4/21/2026, 2:30:16 AM`
