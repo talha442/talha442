@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;True love stories never have endings.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+### <blockquote>&ldquo;Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. &rdquo; &mdash; <footer>George Washington</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/22/2026, 2:28:18 AM`
+`Last Updated: 4/23/2026, 2:31:43 AM`
