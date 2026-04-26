@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;No grand idea was ever born in a conference, but a lot of foolish ideas have died there.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
+### <blockquote>&ldquo;Don´t hesitate or allow yourself to make excuses. Just get out and do it.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/25/2026, 2:22:36 AM`
+`Last Updated: 4/26/2026, 2:37:25 AM`
