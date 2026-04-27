@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Don´t hesitate or allow yourself to make excuses. Just get out and do it.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
+### <blockquote>&ldquo;Old age is like everything else. To make a success of it, you've got to start young.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/26/2026, 2:37:25 AM`
+`Last Updated: 4/27/2026, 2:39:32 AM`
