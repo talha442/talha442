@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Youth has no age.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+### <blockquote>&ldquo;The only real security that a man can have in this world is a reserve of knowledge, experience and ability. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/28/2026, 2:47:11 AM`
+`Last Updated: 4/29/2026, 2:46:43 AM`
