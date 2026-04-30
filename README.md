@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The only real security that a man can have in this world is a reserve of knowledge, experience and ability. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+### <blockquote>&ldquo;If you've never eaten while crying you don t know what life tastes like.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 4/29/2026, 2:46:43 AM`
+`Last Updated: 4/30/2026, 2:48:12 AM`
