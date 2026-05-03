@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;In youth we run into difficulties. In old age difficulties run into us. &rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
+### <blockquote>&ldquo;The whole is greater than the sum of its parts.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/2/2026, 2:35:55 AM`
+`Last Updated: 5/3/2026, 2:47:04 AM`
