@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The moment you stop to think about whether you love someone, you've already stopped loving that person forever.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+### <blockquote>&ldquo;Where does a thought go when it's forgotten?&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/6/2026, 2:42:12 AM`
+`Last Updated: 5/7/2026, 2:44:17 AM`
