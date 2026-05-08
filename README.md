@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Where does a thought go when it's forgotten?&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
+### <blockquote>&ldquo;When you know what you want, and want it bad enough, you will find a way to get it.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/7/2026, 2:44:17 AM`
+`Last Updated: 5/8/2026, 2:48:44 AM`
