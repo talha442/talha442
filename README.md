@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Throw your heart over the bar and your body will follow.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+### <blockquote>&ldquo;Someday death will take us to another star.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/9/2026, 2:43:03 AM`
+`Last Updated: 5/10/2026, 2:49:29 AM`
