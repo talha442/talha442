@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Someday death will take us to another star.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+### <blockquote>&ldquo;Your setback is just a setup for a comeback.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/10/2026, 2:49:29 AM`
+`Last Updated: 5/11/2026, 2:58:16 AM`
