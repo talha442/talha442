@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+### <blockquote>&ldquo;If you want to see things just as they are, then you yourself must practice just as you are.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/16/2026, 2:46:56 AM`
+`Last Updated: 5/17/2026, 2:55:56 AM`
