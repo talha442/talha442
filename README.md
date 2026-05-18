@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you want to see things just as they are, then you yourself must practice just as you are.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+### <blockquote>&ldquo;Animals don't hate, and we're supposed to be better than them.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/17/2026, 2:55:56 AM`
+`Last Updated: 5/18/2026, 3:33:37 AM`
