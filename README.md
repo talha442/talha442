@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You can, you should, and if you're brave enough to start, you will.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+### <blockquote>&ldquo;All great truths begin as blasphemies.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/21/2026, 3:33:47 AM`
+`Last Updated: 5/22/2026, 3:32:28 AM`
