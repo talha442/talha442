@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Success is stumbling from failure to failure with no loss of enthusiasm.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+### <blockquote>&ldquo;Death and life have their determined appointments; riches and honors depend upon heaven.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/26/2026, 3:25:17 AM`
+`Last Updated: 5/27/2026, 3:39:06 AM`
