@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The meaning of life is just to be alive. It is so plain and so obvious and so simple.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+### <blockquote>&ldquo;The important thing is not to stop questioning. Curiosity has its own reason for existing.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/28/2026, 3:28:16 AM`
+`Last Updated: 5/29/2026, 3:28:44 AM`
