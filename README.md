@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+### <blockquote>&ldquo;Honesty is a very expensive gift, Don&#039;t expect it from cheap people.&rdquo; &mdash; <footer>Warren Buffett</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 5/30/2026, 2:54:59 AM`
+`Last Updated: 6/1/2026, 3:55:32 AM`
