@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Honesty is a very expensive gift, Don&#039;t expect it from cheap people.&rdquo; &mdash; <footer>Warren Buffett</footer></blockquote>
+### <blockquote>&ldquo;Watch your character; it becomes your destiny.&rdquo; &mdash; <footer>Tibetan Proverb</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/1/2026, 3:55:32 AM`
+`Last Updated: 6/2/2026, 3:50:59 AM`
