@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Watch your character; it becomes your destiny.&rdquo; &mdash; <footer>Tibetan Proverb</footer></blockquote>
+### <blockquote>&ldquo;The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we&#039;re not clear about which is the one we care about.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/2/2026, 3:50:59 AM`
+`Last Updated: 6/3/2026, 3:57:22 AM`
