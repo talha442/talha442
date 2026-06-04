@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we&#039;re not clear about which is the one we care about.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+### <blockquote>&ldquo;Even if you&#039;re sure you can win, be careful that you can live with what you lose.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/3/2026, 3:57:22 AM`
+`Last Updated: 6/4/2026, 3:52:41 AM`
