@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The outer conditions of a person&#039;s life will always be found to reflect their inner beliefs.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+### <blockquote>&ldquo;Try all things, hold fast that which is good.&rdquo; &mdash; <footer>John Locke</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/5/2026, 3:37:39 AM`
+`Last Updated: 6/7/2026, 3:44:52 AM`
