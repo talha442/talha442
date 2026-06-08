@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Try all things, hold fast that which is good.&rdquo; &mdash; <footer>John Locke</footer></blockquote>
+### <blockquote>&ldquo;The harder you work for something, the greater you&#039;ll feel when you achieve it.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/7/2026, 3:44:52 AM`
+`Last Updated: 6/8/2026, 3:53:28 AM`
