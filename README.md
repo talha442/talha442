@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The harder you work for something, the greater you&#039;ll feel when you achieve it.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
+### <blockquote>&ldquo;The more acquaintances you have, the less you know them.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/8/2026, 3:53:28 AM`
+`Last Updated: 6/9/2026, 2:57:07 AM`
