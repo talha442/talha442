@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The more acquaintances you have, the less you know them.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+### <blockquote>&ldquo;Thinking is the hardest work there is, which is probably the reason why so few engage in it.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/9/2026, 2:57:07 AM`
+`Last Updated: 6/10/2026, 3:35:06 AM`
