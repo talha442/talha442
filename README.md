@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Thinking is the hardest work there is, which is probably the reason why so few engage in it.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+### <blockquote>&ldquo;If you don&#039;t like something, change it. If you can&#039;t change it, change your attitude.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/10/2026, 3:35:06 AM`
+`Last Updated: 6/11/2026, 3:50:49 AM`
