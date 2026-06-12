@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you don&#039;t like something, change it. If you can&#039;t change it, change your attitude.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+### <blockquote>&ldquo;Conquer the devils with a little thing called love.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/11/2026, 3:50:49 AM`
+`Last Updated: 6/12/2026, 3:50:02 AM`
