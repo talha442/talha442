@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It is startling to realize how much unbelief is necessary to make belief possible.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+### <blockquote>&ldquo;Only by attracting the best people will you accomplish great deeds.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/13/2026, 3:34:37 AM`
+`Last Updated: 6/14/2026, 3:56:07 AM`
