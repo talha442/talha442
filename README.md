@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Only by attracting the best people will you accomplish great deeds.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+### <blockquote>&ldquo;Before you can see the Light, you have to deal with the darkness.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/14/2026, 3:56:07 AM`
+`Last Updated: 6/15/2026, 4:08:38 AM`
