@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Before you can see the Light, you have to deal with the darkness.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+### <blockquote>&ldquo;Be like a postage stamp. Stick to it until you get there.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/15/2026, 4:08:38 AM`
+`Last Updated: 6/16/2026, 3:57:49 AM`
