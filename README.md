@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Be like a postage stamp. Stick to it until you get there.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+### <blockquote>&ldquo;It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/16/2026, 3:57:49 AM`
+`Last Updated: 6/17/2026, 3:59:08 AM`
