@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Always focus on the front windshield and not the rear view mirror.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+### <blockquote>&ldquo;The quicker you let go of old cheese, the sooner you find new cheese.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/19/2026, 4:09:42 AM`
+`Last Updated: 6/20/2026, 3:32:28 AM`
