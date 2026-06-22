@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The quicker you let go of old cheese, the sooner you find new cheese.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+### <blockquote>&ldquo;Putting off an easy thing makes it hard, and putting off a hard one makes it impossible.&rdquo; &mdash; <footer>George Lorimer</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/20/2026, 3:32:28 AM`
+`Last Updated: 6/22/2026, 4:04:41 AM`
