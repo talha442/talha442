@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Putting off an easy thing makes it hard, and putting off a hard one makes it impossible.&rdquo; &mdash; <footer>George Lorimer</footer></blockquote>
+### <blockquote>&ldquo;Help others and give something back.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/22/2026, 4:04:41 AM`
+`Last Updated: 6/23/2026, 3:26:24 AM`
