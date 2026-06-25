@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;No man is more cheated than the selfish man.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+### <blockquote>&ldquo;To be in harmony with the wholeness of things is not to have anxiety over imperfections.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/24/2026, 3:28:17 AM`
+`Last Updated: 6/25/2026, 3:25:48 AM`
