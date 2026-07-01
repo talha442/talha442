@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Pleasure is always derived from something outside you, whereas joy arises from within.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
+### <blockquote>&ldquo;Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 6/29/2026, 3:44:31 AM`
+`Last Updated: 7/1/2026, 3:40:40 AM`
