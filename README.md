@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+### <blockquote>&ldquo;The more rejection you get, the better you are, the more you&#039;ve learned, the closer you are to your outcome.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/1/2026, 3:40:40 AM`
+`Last Updated: 7/2/2026, 3:26:36 AM`
