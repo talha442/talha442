@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Throughout this life, you can never be certain of living long enough to take another breath.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
+### <blockquote>&ldquo;Make yourself so useful to other people, that they think you are irreplaceable.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/3/2026, 2:49:29 AM`
+`Last Updated: 7/4/2026, 2:45:29 AM`
