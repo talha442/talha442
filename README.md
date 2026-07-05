@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Make yourself so useful to other people, that they think you are irreplaceable.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+### <blockquote>&ldquo;Common sense is not so common.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/4/2026, 2:45:29 AM`
+`Last Updated: 7/5/2026, 2:55:58 AM`
