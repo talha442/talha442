@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you have only one smile in you give it to the people you love.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+### <blockquote>&ldquo;Go as far as you can see and you will see further.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/6/2026, 3:22:47 AM`
+`Last Updated: 7/7/2026, 2:56:02 AM`
