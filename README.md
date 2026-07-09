@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You are not what you think you are, You are not what others think you are, You are what you think others think you are.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;No matter how tall the mountain is, it cannot block the sun.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/8/2026, 2:32:09 AM`
+`Last Updated: 7/9/2026, 2:50:23 AM`
