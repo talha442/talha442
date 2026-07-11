@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Never confuse a single defeat with a final defeat.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
+### <blockquote>&ldquo;Don&#039;t stop when you&#039;re tired. Stop when you&#039;re done.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/10/2026, 2:52:49 AM`
+`Last Updated: 7/11/2026, 2:30:14 AM`
