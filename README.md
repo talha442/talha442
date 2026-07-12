@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Don&#039;t stop when you&#039;re tired. Stop when you&#039;re done.&rdquo; &mdash; <footer>Marilyn Monroe</footer></blockquote>
+### <blockquote>&ldquo;The most effective way to do it, is to do it.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/11/2026, 2:30:14 AM`
+`Last Updated: 7/12/2026, 2:35:53 AM`
