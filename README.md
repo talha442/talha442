@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Your only limitations are those you set up in your mind or permit others to set up for you.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+### <blockquote>&ldquo;The highest form of ignorance is when you reject something you don&#039;t know anything about.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/13/2026, 2:38:04 AM`
+`Last Updated: 7/14/2026, 2:22:03 AM`
