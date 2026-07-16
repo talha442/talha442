@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you want to be successful, find someone who has achieved the results you want and copy what they do and you&#039;ll achieve the same results.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+### <blockquote>&ldquo;It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/15/2026, 2:19:54 AM`
+`Last Updated: 7/16/2026, 2:27:22 AM`
