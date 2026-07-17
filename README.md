@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+### <blockquote>&ldquo;In nature there is no alienation. Everything belongs.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/16/2026, 2:27:22 AM`
+`Last Updated: 7/17/2026, 2:30:03 AM`
