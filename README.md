@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The pursuit of mastery bears gifts.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+### <blockquote>&ldquo;Nothing you do is going to matter that much in the long run. Don&#039;t take yourself so seriously.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/19/2026, 2:33:00 AM`
+`Last Updated: 7/20/2026, 2:47:37 AM`
