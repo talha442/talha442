@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;I have not failed. I&#039;ve just found 10,000 ways that won&#039;t work.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+### <blockquote>&ldquo;Simplicity is the glory of expression.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/21/2026, 2:31:05 AM`
+`Last Updated: 7/22/2026, 2:29:52 AM`
