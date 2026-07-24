@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;What people need and what they want may be very different.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+### <blockquote>&ldquo;Eighty percent of success is showing up.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/23/2026, 2:34:38 AM`
+`Last Updated: 7/24/2026, 2:31:43 AM`
