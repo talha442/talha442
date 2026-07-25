@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Eighty percent of success is showing up.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
+### <blockquote>&ldquo;When you change what you believe, you change what you do.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/24/2026, 2:31:43 AM`
+`Last Updated: 7/25/2026, 2:29:47 AM`
