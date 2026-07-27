@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Those who seek the easy way do not seek the true way.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+### <blockquote>&ldquo;Anger begins with folly, and ends with repentance.&rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/26/2026, 2:37:02 AM`
+`Last Updated: 7/27/2026, 2:45:22 AM`
