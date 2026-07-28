@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Anger begins with folly, and ends with repentance.&rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
+### <blockquote>&ldquo;He who laughs at himself never runs out of things to laugh at.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/27/2026, 2:45:22 AM`
+`Last Updated: 7/28/2026, 2:24:13 AM`
