@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;He who laughs at himself never runs out of things to laugh at.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+### <blockquote>&ldquo;If you&#039;re afraid - don&#039;t do it, - if you&#039;re doing it - don&#039;t be afraid!&rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/28/2026, 2:24:13 AM`
+`Last Updated: 7/29/2026, 2:28:34 AM`
