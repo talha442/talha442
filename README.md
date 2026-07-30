@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you&#039;re afraid - don&#039;t do it, - if you&#039;re doing it - don&#039;t be afraid!&rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>
+### <blockquote>&ldquo;Convinced myself, I seek not to convince.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/29/2026, 2:28:34 AM`
+`Last Updated: 7/30/2026, 2:10:40 AM`
