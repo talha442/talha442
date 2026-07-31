@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Convinced myself, I seek not to convince.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
+### <blockquote>&ldquo;A wise person should have money in their head, but not in their heart.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/30/2026, 2:10:40 AM`
+`Last Updated: 7/31/2026, 2:39:26 AM`
