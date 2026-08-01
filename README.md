@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A wise person should have money in their head, but not in their heart.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+### <blockquote>&ldquo;Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 7/31/2026, 2:39:26 AM`
+`Last Updated: 8/1/2026, 2:37:54 AM`
