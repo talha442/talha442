@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Don&#039;t spend major time on minor things.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+### <blockquote>&ldquo;If you take responsibility for yourself you will develop a hunger to accomplish your dream.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/2/2026, 2:36:40 AM`
+`Last Updated: 8/3/2026, 2:38:10 AM`
