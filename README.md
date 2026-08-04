@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you take responsibility for yourself you will develop a hunger to accomplish your dream.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+### <blockquote>&ldquo;Life is like riding a bicycle. To keep your balance you must keep moving.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/3/2026, 2:38:10 AM`
+`Last Updated: 8/4/2026, 2:22:34 AM`
