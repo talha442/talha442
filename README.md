@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Life is like riding a bicycle. To keep your balance you must keep moving.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+### <blockquote>&ldquo;Greatness comes from living with purpose and passion.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/4/2026, 2:22:34 AM`
+`Last Updated: 8/5/2026, 2:22:46 AM`
