@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Greatness comes from living with purpose and passion.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+### <blockquote>&ldquo;Against the assault of laughter nothing can stand.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/5/2026, 2:22:46 AM`
+`Last Updated: 8/6/2026, 2:24:45 AM`
