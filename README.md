@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Against the assault of laughter nothing can stand.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+### <blockquote>&ldquo;He will win who knows when to fight and when not to fight.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/6/2026, 2:24:45 AM`
+`Last Updated: 8/7/2026, 2:33:52 AM`
