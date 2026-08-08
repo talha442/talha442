@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;He will win who knows when to fight and when not to fight.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
+### <blockquote>&ldquo;Fear does not have any special power unless you empower it by submitting to it.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/7/2026, 2:33:52 AM`
+`Last Updated: 8/8/2026, 1:23:41 AM`
