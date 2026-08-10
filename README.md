@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you do not conquer self, you will be conquered by self.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+### <blockquote>&ldquo;Nothing endures but change.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/9/2026, 1:36:16 AM`
+`Last Updated: 8/10/2026, 1:39:21 AM`
