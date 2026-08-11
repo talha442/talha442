@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Nothing endures but change.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+### <blockquote>&ldquo;To live is the rarest thing in the world. Most people exist, that is all.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/10/2026, 1:39:21 AM`
+`Last Updated: 8/11/2026, 1:36:13 AM`
