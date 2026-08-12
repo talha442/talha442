@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;To live is the rarest thing in the world. Most people exist, that is all.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+### <blockquote>&ldquo;Manifest plainness, embrace simplicity, reduce selfishness, have few desires.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/11/2026, 1:36:13 AM`
+`Last Updated: 8/12/2026, 1:46:53 AM`
