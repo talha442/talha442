@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Knowledge has to be improved, challenged, and increased constantly, or it vanishes.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+### <blockquote>&ldquo;Tragedy is a tool for the living to gain wisdom, not a guide by which to live.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/13/2026, 1:48:56 AM`
+`Last Updated: 8/14/2026, 1:46:49 AM`
