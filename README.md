@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Tragedy is a tool for the living to gain wisdom, not a guide by which to live.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
+### <blockquote>&ldquo;The guest will judge better of a feast than the cook.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/14/2026, 1:46:49 AM`
+`Last Updated: 8/15/2026, 1:06:28 AM`
