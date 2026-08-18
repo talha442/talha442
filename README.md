@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A single dream is more powerful than a thousand realities.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+### <blockquote>&ldquo;We run to win, not just to be in the race.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/17/2026, 1:08:14 AM`
+`Last Updated: 8/18/2026, 1:05:51 AM`
