@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+### <blockquote>&ldquo;Sometimes you have to travel a long way to find what is near.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/20/2026, 1:06:25 AM`
+`Last Updated: 8/21/2026, 1:10:02 AM`
