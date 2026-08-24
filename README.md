@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+### <blockquote>&ldquo;Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/23/2026, 1:11:53 AM`
+`Last Updated: 8/24/2026, 1:09:33 AM`
