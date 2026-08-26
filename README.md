@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Make no small plans for they have no power to stir the soul.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>
+### <blockquote>&ldquo;When I let go of what I am, I become what I might be.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/25/2026, 1:08:06 AM`
+`Last Updated: 8/26/2026, 1:10:22 AM`
