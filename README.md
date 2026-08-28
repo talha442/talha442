@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+### <blockquote>&ldquo;We are most nearly ourselves when we achieve the seriousness of the child at play.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/27/2026, 7:21:50 AM`
+`Last Updated: 8/28/2026, 9:36:33 AM`
