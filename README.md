@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We are most nearly ourselves when we achieve the seriousness of the child at play.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+### <blockquote>&ldquo;The only way to &#039;find out if it will work out&#039; is to do it.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/28/2026, 9:36:33 AM`
+`Last Updated: 8/29/2026, 5:41:34 AM`
