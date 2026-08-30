@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The only way to &#039;find out if it will work out&#039; is to do it.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+### <blockquote>&ldquo;Courage is the price that life exacts for granting peace.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/29/2026, 5:41:34 AM`
+`Last Updated: 8/30/2026, 3:42:26 AM`
