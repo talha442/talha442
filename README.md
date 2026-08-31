@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Courage is the price that life exacts for granting peace.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+### <blockquote>&ldquo;We must cultivate our garden.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/30/2026, 3:42:26 AM`
+`Last Updated: 8/31/2026, 3:43:32 AM`
