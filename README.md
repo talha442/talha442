@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We must cultivate our garden.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+### <blockquote>&ldquo;Educating the mind without educating the heart is no education at all.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 8/31/2026, 3:43:32 AM`
+`Last Updated: 9/1/2026, 3:38:06 AM`
