@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Educating the mind without educating the heart is no education at all.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+### <blockquote>&ldquo;Projecting your mind into a successful situation is the most powerful means to achieve goals.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/1/2026, 3:38:06 AM`
+`Last Updated: 9/2/2026, 2:56:13 AM`
