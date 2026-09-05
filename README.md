@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Get mad, then get over it.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+### <blockquote>&ldquo;Some of the greater things in life are unseen; that&#039;s why you close your eyes when you kiss, cry, or dream.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/4/2026, 3:00:45 AM`
+`Last Updated: 9/5/2026, 2:59:59 AM`
