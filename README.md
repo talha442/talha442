@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;We don&#039;t have to be smarter than the rest. We have to be more disciplined than the rest.&rdquo; &mdash; <footer>Warren Buffett</footer></blockquote>
+### <blockquote>&ldquo;At the center of your being you have the answer; you know who you are and you know what you want.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/6/2026, 2:59:31 AM`
+`Last Updated: 9/7/2026, 2:57:27 AM`
