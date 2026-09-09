@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Human beings believe just as they breathe - in order to survive.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+### <blockquote>&ldquo;The only place success comes before work is in the dictionary.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/8/2026, 3:07:06 AM`
+`Last Updated: 9/9/2026, 3:09:11 AM`
