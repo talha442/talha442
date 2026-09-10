@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The only place success comes before work is in the dictionary.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+### <blockquote>&ldquo;No matter how much preparation we do, in the real tests of our lives, we&#039;ll be in unfamiliar terrain.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/9/2026, 3:09:11 AM`
+`Last Updated: 9/10/2026, 3:08:45 AM`
