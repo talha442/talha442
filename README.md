@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Bad things are not the worst things that can happen to us. NOTHING is the worst thing that can happen to us.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+### <blockquote>&ldquo;The outer conditions of a person&#039;s life will always be found to reflect their inner beliefs.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/11/2026, 3:04:10 AM`
+`Last Updated: 9/12/2026, 3:10:58 AM`
