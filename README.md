@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Anyone who wants to achieve a dream must stay strong, focused and steady.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+### <blockquote>&ldquo;Being wrong brings the opportunity for growth.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/13/2026, 3:13:58 AM`
+`Last Updated: 9/14/2026, 3:26:27 AM`
