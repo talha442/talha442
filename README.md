@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;All human wisdom is contained in these two words - Wait and Hope&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
+### <blockquote>&ldquo;In the End, we will remember not the words of our enemies, but the silence of our friends.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/17/2026, 3:29:13 AM`
+`Last Updated: 9/18/2026, 3:15:22 AM`
