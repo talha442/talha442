@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Do every act of your life as if it were your last.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+### <blockquote>&ldquo;Where focus goes, energy flows.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/19/2026, 3:11:36 AM`
+`Last Updated: 9/20/2026, 3:28:33 AM`
