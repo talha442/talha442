@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+### <blockquote>&ldquo;Those who attain the middle Dominate the whole.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/22/2026, 3:22:23 AM`
+`Last Updated: 9/23/2026, 3:23:30 AM`
