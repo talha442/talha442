@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Whenever you find yourself on the side of the majority, it is time to reform.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+### <blockquote>&ldquo;The only problem we really have is we think we&#039;re not supposed to have problems! Problems call us to higher level- - face &amp; solve them now!&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/25/2026, 3:30:17 AM`
+`Last Updated: 9/26/2026, 3:35:33 AM`
