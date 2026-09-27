@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The only problem we really have is we think we&#039;re not supposed to have problems! Problems call us to higher level- - face &amp; solve them now!&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+### <blockquote>&ldquo;We will outstretch the hand if you unclench your fist.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/26/2026, 3:35:33 AM`
+`Last Updated: 9/27/2026, 3:44:35 AM`
