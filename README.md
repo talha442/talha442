@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;No one can compete with you on being you. Most of life is a search for who and what needs you the most.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+### <blockquote>&ldquo;Smell the cheese often so you know when it is getting old.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/28/2026, 3:43:41 AM`
+`Last Updated: 9/29/2026, 4:18:42 AM`
