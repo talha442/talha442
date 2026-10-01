@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Smell the cheese often so you know when it is getting old.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+### <blockquote>&ldquo;Many a man has failed because he had his wishbone where his backbone should have been.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 9/29/2026, 4:18:42 AM`
+`Last Updated: 10/1/2026, 4:14:06 AM`
