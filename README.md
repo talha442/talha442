@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Where the willingness is great, the difficulties cannot be great.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>
+### <blockquote>&ldquo;Words without actions are the assassins of idealism.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/2/2026, 4:07:16 AM`
+`Last Updated: 10/3/2026, 3:50:52 AM`
