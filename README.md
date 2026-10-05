@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The biggest risk is not taking any risk. In a world that&#039;s changing quickly, the only strategy that is guaranteed to fail is not taking risks.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
+### <blockquote>&ldquo;All cruelty springs from weakness.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/4/2026, 4:22:23 AM`
+`Last Updated: 10/5/2026, 4:08:03 AM`
