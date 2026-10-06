@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;All cruelty springs from weakness.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
+### <blockquote>&ldquo;Respect is earned by effort not age, all things age without effort.&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/5/2026, 4:08:03 AM`
+`Last Updated: 10/6/2026, 4:56:23 AM`
