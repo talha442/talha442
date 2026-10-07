@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Respect is earned by effort not age, all things age without effort.&rdquo; &mdash; <footer>C. Sean McGee</footer></blockquote>
+### <blockquote>&ldquo;True prayer has no set form.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/6/2026, 4:56:23 AM`
+`Last Updated: 10/7/2026, 4:23:15 AM`
