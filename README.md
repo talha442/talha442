@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;True prayer has no set form.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+### <blockquote>&ldquo;Don&#039;t waste your energy on being angry at something that somebody did six months ago or a year ago. It&#039;s over.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/7/2026, 4:23:15 AM`
+`Last Updated: 10/8/2026, 4:34:35 AM`
