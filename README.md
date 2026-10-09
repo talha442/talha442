@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Don&#039;t waste your energy on being angry at something that somebody did six months ago or a year ago. It&#039;s over.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+### <blockquote>&ldquo;Sometimes success isn&#039;t about making the right decision, it&#039;s more about making some decision.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/8/2026, 4:34:35 AM`
+`Last Updated: 10/9/2026, 4:37:50 AM`
