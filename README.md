@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Where the willingness is great, the difficulties cannot be great.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>
+### <blockquote>&ldquo;Your only obligation in any lifetime is to be true to yourself.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/10/2026, 4:23:45 AM`
+`Last Updated: 10/11/2026, 4:04:54 AM`
