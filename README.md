@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Behind every cloud is another cloud.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
+### <blockquote>&ldquo;No man ever steps in the same river twice, for it&#039;s not the same river and he&#039;s not the same man.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/12/2026, 4:23:56 AM`
+`Last Updated: 10/13/2026, 5:31:58 AM`
