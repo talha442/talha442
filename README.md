@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;You are what you believe in. You become that which you believe you can become.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+### <blockquote>&ldquo;Everything that is done in the world is done by hope.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/15/2026, 3:15:33 AM`
+`Last Updated: 10/16/2026, 3:11:16 AM`
