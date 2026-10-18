@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;I begin with an idea and then it becomes something else.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+### <blockquote>&ldquo;Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/17/2026, 3:02:14 AM`
+`Last Updated: 10/18/2026, 3:04:45 AM`
