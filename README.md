@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The heart wants what it wants. There&#039;s no logic.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
+### <blockquote>&ldquo;The difference between treason and patriotism is only a matter of dates.&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/20/2026, 3:27:27 AM`
+`Last Updated: 10/21/2026, 3:21:51 AM`
