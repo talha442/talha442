@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The biggest risk is not taking any risk. In a world that&#039;s changing quickly, the only strategy that is guaranteed to fail is not taking risks.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
+### <blockquote>&ldquo;Time you enjoy wasting, was not wasted.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/23/2026, 3:25:47 AM`
+`Last Updated: 10/24/2026, 3:20:28 AM`
