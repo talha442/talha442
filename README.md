@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Time you enjoy wasting, was not wasted.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+### <blockquote>&ldquo;I never said it would be easy, I only said it would be worth it.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/24/2026, 3:20:28 AM`
+`Last Updated: 10/25/2026, 3:15:23 AM`
