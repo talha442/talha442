@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;I never said it would be easy, I only said it would be worth it.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+### <blockquote>&ldquo;Open your eyes and look within. Are you satisfied with the life you&#039;re living?&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/25/2026, 3:15:23 AM`
+`Last Updated: 10/26/2026, 3:16:42 AM`
