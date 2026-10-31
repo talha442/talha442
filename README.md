@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Mind is the creator of everything. You should therefore guide it to create only good.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+### <blockquote>&ldquo;Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/30/2026, 4:26:12 AM`
+`Last Updated: 10/31/2026, 4:06:51 AM`
