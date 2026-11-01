@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+### <blockquote>&ldquo;However difficult life may seem, there is always something you can do and succeed at.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 10/31/2026, 4:06:51 AM`
+`Last Updated: 11/1/2026, 4:28:24 AM`
