@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;To raise your consciousness, surround yourself with people of higher consciousness.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+### <blockquote>&ldquo;If you build the guts to do something, anything, then you better save enough to face the consequences.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/2/2026, 4:30:08 AM`
+`Last Updated: 11/3/2026, 5:24:21 AM`
