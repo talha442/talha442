@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Given the choice between the experience of pain and nothing, I would choose pain.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
+### <blockquote>&ldquo;People don&#039;t care how much you know until they know how much you care.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/4/2026, 4:53:17 AM`
+`Last Updated: 11/5/2026, 5:10:33 AM`
