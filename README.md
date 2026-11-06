@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;People don&#039;t care how much you know until they know how much you care.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+### <blockquote>&ldquo;He is richest who is content with the least, for content is the wealth of nature.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/5/2026, 5:10:33 AM`
+`Last Updated: 11/6/2026, 5:10:10 AM`
