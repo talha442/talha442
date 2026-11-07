@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;He is richest who is content with the least, for content is the wealth of nature.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+### <blockquote>&ldquo;The secret of getting ahead is getting started.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/6/2026, 5:10:10 AM`
+`Last Updated: 11/7/2026, 4:42:41 AM`
