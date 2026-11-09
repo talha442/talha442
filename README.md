@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+### <blockquote>&ldquo;The number one cause of failure is the fear of failure.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/8/2026, 4:30:38 AM`
+`Last Updated: 11/9/2026, 4:43:00 AM`
