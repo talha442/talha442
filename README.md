@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The number one cause of failure is the fear of failure.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+### <blockquote>&ldquo;No one ever said life was fair. Just Eventful.&rdquo; &mdash; <footer>Carol Burnett</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/9/2026, 4:43:00 AM`
+`Last Updated: 11/10/2026, 5:58:24 AM`
