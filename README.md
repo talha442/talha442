@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;No one ever said life was fair. Just Eventful.&rdquo; &mdash; <footer>Carol Burnett</footer></blockquote>
+### <blockquote>&ldquo;The one who praises you is a thief. The one who criticizes you is your true friend.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/10/2026, 5:58:24 AM`
+`Last Updated: 11/12/2026, 5:48:03 AM`
