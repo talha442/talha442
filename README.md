@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The one who praises you is a thief. The one who criticizes you is your true friend.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+### <blockquote>&ldquo;Become the kind of leader that people would follow voluntarily, even if you had no title or position.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/12/2026, 5:48:03 AM`
+`Last Updated: 11/13/2026, 5:07:44 AM`
