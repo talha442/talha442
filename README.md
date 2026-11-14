@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Become the kind of leader that people would follow voluntarily, even if you had no title or position.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+### <blockquote>&ldquo;The scariest monsters are the ones that lurk within our souls.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/13/2026, 5:07:44 AM`
+`Last Updated: 11/14/2026, 4:58:23 AM`
