@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;The scariest monsters are the ones that lurk within our souls.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
+### <blockquote>&ldquo;If there&#039;s a definition of freedom, I think it&#039;s this: living life on your terms.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/14/2026, 4:58:23 AM`
+`Last Updated: 11/15/2026, 4:51:59 AM`
