@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If there&#039;s a definition of freedom, I think it&#039;s this: living life on your terms.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+### <blockquote>&ldquo;Get mad, then get over it.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/15/2026, 4:51:59 AM`
+`Last Updated: 11/16/2026, 4:47:57 AM`
