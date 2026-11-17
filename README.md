@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Get mad, then get over it.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+### <blockquote>&ldquo;People become attached to their burdens sometimes more than the burdens are attached to them.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/16/2026, 4:47:57 AM`
+`Last Updated: 11/17/2026, 6:36:06 AM`
