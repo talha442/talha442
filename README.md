@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;People become attached to their burdens sometimes more than the burdens are attached to them.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+### <blockquote>&ldquo;Few things are more deceptive than memories.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/17/2026, 6:36:06 AM`
+`Last Updated: 11/18/2026, 5:56:45 AM`
