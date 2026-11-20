@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;A needle is not sharp at both ends.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+### <blockquote>&ldquo;Nothing is more creative...nor destructive...than a brilliant mind with a purpose.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/19/2026, 5:56:58 AM`
+`Last Updated: 11/20/2026, 5:45:37 AM`
