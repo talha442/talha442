@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;I&#039;ve always lived in the moment.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+### <blockquote>&ldquo;Don&#039;t waste your energy on being angry at something that somebody did six months ago or a year ago. It&#039;s over.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/23/2026, 5:49:56 AM`
+`Last Updated: 11/24/2026, 8:27:31 AM`
