@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;Don&#039;t waste your energy on being angry at something that somebody did six months ago or a year ago. It&#039;s over.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+### <blockquote>&ldquo;Know your gifts and share them.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/24/2026, 8:27:31 AM`
+`Last Updated: 11/25/2026, 7:01:22 AM`
