@@ -35,8 +35,8 @@ const Talha = {
 
 ### ✍️Qoute of the day:
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-### <blockquote>&ldquo;If you think adventure is dangerous, try routine; it is lethal.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+### <blockquote>&ldquo;It takes real work to grasp what is invisible to just about everyone else.&rdquo; &mdash; <footer>Ryan Holiday</footer></blockquote>
 ---
 ![](https://visitcount.itsvg.in/api?id=talha442&icon=1&color=1)
 
-`Last Updated: 11/26/2026, 6:54:24 AM`
+`Last Updated: 11/27/2026, 6:47:20 AM`
